@@ -1,0 +1,80 @@
+{
+  "CAD": {
+    "code": "CAD",
+    "iso": "CAD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "canadian_dollar",
+      "localized": "Canadian Dollar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": 4,
+    "round": 5,
+    "sign": {
+      "long": "CA$",
+      "short": "$"
+    },
+    "type": "currency"
+  },
+  "EUR": {
+    "code": "EUR",
+    "iso": "EUR",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "euro",
+      "localized": "Euro"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": 4,
+    "round": 5,
+    "sign": {
+      "long": "€",
+      "short": "€"
+    },
+    "type": "currency"
+  },
+  "USD": {
+    "code": "USD",
+    "iso": "USD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "american_dollar",
+      "localized": "United States dollar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": 4,
+    "round": 5,
+    "sign": {
+      "long": "US$",
+      "short": "$"
+    },
+    "type": "currency"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "lot_units": {
+    "barrel": {
+      "long": "barrel",
+      "short": "bbl"
+    },
+    "forex": {
+      "long": "unit",
+      "short": "unit"
+    },
+    "ounce": {
+      "long": "ounce",
+      "short": "oz"
+    },
+    "mmbtu": {
+      "long": "metric million british Thermal unit",
+      "short": "MMBtu"
+    }
+  }
+}

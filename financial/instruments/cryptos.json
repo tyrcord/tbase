@@ -1,0 +1,160 @@
+{
+  "ADA": {
+    "code": "ADA",
+    "iso": "ADA",
+    "name": {
+      "key": "cardano",
+      "localized": "Cardano"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": 5,
+    "round": 6,
+    "sign": {
+      "long": "ADA",
+      "short": "ADA"
+    },
+    "type": "crypto"
+  },
+  "BCH": {
+    "code": "BCH",
+    "iso": "BCH",
+    "name": {
+      "key": "bitcoin_cash",
+      "localized": "Bitcoin Cash"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": 2,
+    "round": 2,
+    "sign": {
+      "long": "BCH",
+      "short": "BCH"
+    },
+    "type": "crypto"
+  },
+  "BNB": {
+    "code": "BNB",
+    "iso": "BNB",
+    "name": {
+      "key": "binance_coin",
+      "localized": "Binance Coin"
+    },
+    "pip": 5,
+    "round": 6,
+    "sign_short": "BNB",
+    "type": "crypto"
+  },
+  "BTC": {
+    "code": "BTC",
+    "iso": "XBT",
+    "name": "Bitcoin",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "₿",
+    "type": "crypto"
+  },
+  "DSH": {
+    "code": "DSH",
+    "iso": "DSH",
+    "name": "Dash",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "DSH",
+    "type": "crypto"
+  },
+  "EOS": {
+    "code": "EOS",
+    "iso": "EOS",
+    "name": "EOS",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "EOS",
+    "type": "crypto"
+  },
+  "ETC": {
+    "code": "ETC",
+    "iso": "ETC",
+    "name": "Ethereum Classic",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "ETC",
+    "type": "crypto"
+  },
+  "ETH": {
+    "code": "ETH",
+    "iso": "ETH",
+    "name": "Ethereum",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "ETH",
+    "type": "crypto"
+  },
+  "LTC": {
+    "code": "LTC",
+    "iso": "LTC",
+    "name": "Litecoin",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "LTC",
+    "type": "crypto"
+  },
+  "MIOTA": {
+    "code": "MIOTA",
+    "iso": "MIOTA",
+    "name": "IOTA",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "MIOTA",
+    "type": "crypto"
+  },
+  "NEO": {
+    "code": "NEO",
+    "iso": "NEO",
+    "name": "NEO",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "NEO",
+    "type": "crypto"
+  },
+  "TRX": {
+    "code": "TRX",
+    "iso": "TRX",
+    "name": "TRON",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "TRX",
+    "type": "crypto"
+  },
+  "XLM": {
+    "code": "XLM",
+    "iso": "XLM",
+    "name": "Stellar",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "XLM",
+    "type": "crypto"
+  },
+  "XMR": {
+    "code": "XMR",
+    "iso": "XMR",
+    "name": "Monero",
+    "pip": 2,
+    "round": 2,
+    "sign_short": "ɱ",
+    "type": "crypto"
+  },
+  "XRP": {
+    "code": "XRP",
+    "iso": "XRP",
+    "name": "Ripple",
+    "pip": 4,
+    "round": 5,
+    "sign_short": "XRP",
+    "type": "crypto"
+  }
+}
