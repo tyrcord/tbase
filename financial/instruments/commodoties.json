@@ -15,7 +15,7 @@
       "counter": false
     },
     "pip": 2,
-    "round": 3,
+    "pipPrecision": 3,
     "sign": {
       "long": "BCO",
       "short": "BCO"
@@ -38,7 +38,7 @@
       "counter": false
     },
     "pip": 2,
-    "round": 3,
+    "pipPrecision": 3,
     "sign_short": "NATGAS",
     "type": "commodity_energy"
   },
@@ -58,7 +58,7 @@
       "counter": false
     },
     "pip": 2,
-    "round": 3,
+    "pipPrecision": 3,
     "sign": {
       "long": "WTI",
       "short": "WTI"

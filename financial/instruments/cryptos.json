@@ -11,7 +11,7 @@
       "counter": true
     },
     "pip": 5,
-    "round": 6,
+    "pipPrecision": 6,
     "sign": {
       "long": "ADA",
       "short": "ADA"
@@ -30,7 +30,7 @@
       "counter": true
     },
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign": {
       "long": "BCH",
       "short": "BCH"
@@ -45,7 +45,7 @@
       "localized": "Binance Coin"
     },
     "pip": 5,
-    "round": 6,
+    "pipPrecision": 6,
     "sign_short": "BNB",
     "type": "crypto"
   },
@@ -54,7 +54,7 @@
     "iso": "XBT",
     "name": "Bitcoin",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "₿",
     "type": "crypto"
   },
@@ -63,7 +63,7 @@
     "iso": "DSH",
     "name": "Dash",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "DSH",
     "type": "crypto"
   },
@@ -72,7 +72,7 @@
     "iso": "EOS",
     "name": "EOS",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "EOS",
     "type": "crypto"
   },
@@ -81,7 +81,7 @@
     "iso": "ETC",
     "name": "Ethereum Classic",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "ETC",
     "type": "crypto"
   },
@@ -90,7 +90,7 @@
     "iso": "ETH",
     "name": "Ethereum",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "ETH",
     "type": "crypto"
   },
@@ -99,7 +99,7 @@
     "iso": "LTC",
     "name": "Litecoin",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "LTC",
     "type": "crypto"
   },
@@ -108,7 +108,7 @@
     "iso": "MIOTA",
     "name": "IOTA",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "MIOTA",
     "type": "crypto"
   },
@@ -117,7 +117,7 @@
     "iso": "NEO",
     "name": "NEO",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "NEO",
     "type": "crypto"
   },
@@ -126,7 +126,7 @@
     "iso": "TRX",
     "name": "TRON",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "TRX",
     "type": "crypto"
   },
@@ -135,7 +135,7 @@
     "iso": "XLM",
     "name": "Stellar",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "XLM",
     "type": "crypto"
   },
@@ -144,7 +144,7 @@
     "iso": "XMR",
     "name": "Monero",
     "pip": 2,
-    "round": 2,
+    "pipPrecision": 2,
     "sign_short": "ɱ",
     "type": "crypto"
   },
@@ -153,7 +153,7 @@
     "iso": "XRP",
     "name": "Ripple",
     "pip": 4,
-    "round": 5,
+    "pipPrecision": 5,
     "sign_short": "XRP",
     "type": "crypto"
   }

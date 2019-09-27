@@ -18,7 +18,8 @@
       "counter": true
     },
     "pip": 4,
-    "round": 5,
+    "pipPrecision": 5,
+    "round": 3,
     "sign": {
       "long": "CA$",
       "short": "$"
@@ -44,7 +45,8 @@
       "counter": true
     },
     "pip": 4,
-    "round": 5,
+    "pipPrecision": 5,
+    "round": 3,
     "sign": {
       "long": "€",
       "short": "€"
@@ -70,7 +72,8 @@
       "counter": true
     },
     "pip": 4,
-    "round": 5,
+    "pipPrecision": 5,
+    "round": 3,
     "sign": {
       "long": "US$",
       "short": "$"
