@@ -17,9 +17,14 @@
       "base": true,
       "counter": true
     },
-    "pip": 4,
-    "pipPrecision": 5,
-    "round": 3,
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
     "sign": {
       "long": "CA$",
       "short": "$"
@@ -44,9 +49,14 @@
       "base": true,
       "counter": true
     },
-    "pip": 4,
-    "pipPrecision": 5,
-    "round": 3,
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
     "sign": {
       "long": "€",
       "short": "€"
@@ -71,9 +81,14 @@
       "base": true,
       "counter": true
     },
-    "pip": 4,
-    "pipPrecision": 5,
-    "round": 3,
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
     "sign": {
       "long": "US$",
       "short": "$"
