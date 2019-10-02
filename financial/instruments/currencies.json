@@ -94,5 +94,37 @@
       "short": "$"
     },
     "type": "currency"
+  },
+  "JPY": {
+    "code": "JPY",
+    "iso": "JPY",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "japanese_yen",
+      "localized": "Japanese yen"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 2,
+      "pipette": 3,
+      "round": 3
+    },
+    "format": {
+      "round": 3
+    },
+    "sign": {
+      "long": "¥",
+      "short": "¥"
+    },
+    "type": "currency"
   }
 }
