@@ -1,7 +1,70 @@
 {
+  "AUD": {
+    "code": "AUD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "australian_dollar",
+      "localized": "Australian Dollar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "AUD",
+      "long": "A$",
+      "short": "$"
+    },
+    "type": "currency"
+  },
+  "BRL": {
+    "code": "BRL",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "brazilian_real",
+      "localized": "Brazilian real"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 4,
+      "round": 4
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "BRL",
+      "long": "R$",
+      "short": "R$"
+    },
+    "type": "currency"
+  },
   "CAD": {
     "code": "CAD",
-    "iso": "CAD",
     "lots": {
       "micro": 1000,
       "mini": 10000,
@@ -25,15 +88,143 @@
     "format": {
       "round": 3
     },
-    "sign": {
+    "symbol": {
+      "ticker": "CAD",
       "long": "CA$",
       "short": "$"
     },
     "type": "currency"
   },
+  "CHF": {
+    "code": "CHF",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "swiss_franc",
+      "localized": "Swiss franc"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "CHF",
+      "long": "CHF",
+      "short": "CHF"
+    },
+    "type": "currency"
+  },
+  "CNH": {
+    "code": "CNH",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "chinese_yuan_renminbi",
+      "localized": "Chinese Yuan Renminbi"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "CNH",
+      "long": "¥",
+      "short": "¥"
+    },
+    "type": "currency"
+  },
+  "CZK": {
+    "code": "CZK",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "czech_koruna",
+      "localized": "Czech koruna"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "CZK",
+      "long": "Kč",
+      "short": "Kč"
+    },
+    "type": "currency"
+  },
+  "DKK": {
+    "code": "DKK",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "danish_krone",
+      "localized": "Danish krone"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "DKK",
+      "long": "Kr.",
+      "short": "Kr."
+    },
+    "type": "currency"
+  },
   "EUR": {
     "code": "EUR",
-    "iso": "EUR",
     "lots": {
       "micro": 1000,
       "mini": 10000,
@@ -57,15 +248,15 @@
     "format": {
       "round": 3
     },
-    "sign": {
+    "symbol": {
+      "ticker": "EUR",
       "long": "€",
       "short": "€"
     },
     "type": "currency"
   },
-  "USD": {
-    "code": "USD",
-    "iso": "USD",
+  "GBP": {
+    "code": "GBP",
     "lots": {
       "micro": 1000,
       "mini": 10000,
@@ -74,8 +265,8 @@
       "unit": "forex"
     },
     "name": {
-      "key": "american_dollar",
-      "localized": "United States dollar"
+      "key": "pound_sterling",
+      "localized": "Pound sterling"
     },
     "pair": {
       "base": true,
@@ -89,15 +280,143 @@
     "format": {
       "round": 3
     },
-    "sign": {
-      "long": "US$",
+    "symbol": {
+      "ticker": "GBP",
+      "long": "£",
+      "short": "£"
+    },
+    "type": "currency"
+  },
+  "HKD": {
+    "code": "HKD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "hong_kong_dollar",
+      "localized": "Hong Kong dollar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "HKD",
+      "long": "HK$",
       "short": "$"
+    },
+    "type": "currency"
+  },
+  "HUF": {
+    "code": "HUF",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "hungarian_forint",
+      "localized": "Hungarian forint"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 2,
+      "pipette": 3,
+      "round": 3
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "HUF",
+      "long": "Ft",
+      "short": "Ft"
+    },
+    "type": "currency"
+  },
+  "ILS": {
+    "code": "ILS",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "israeli_new_shekel",
+      "localized": "Israeli new shekel"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "ILS",
+      "long": "₪",
+      "short": "₪"
+    },
+    "type": "currency"
+  },
+  "INR": {
+    "code": "INR",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "indian_rupee",
+      "localized": "Indian rupee"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 2,
+      "pipette": 3,
+      "round": 3
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "INR",
+      "long": "₹",
+      "short": "₹"
     },
     "type": "currency"
   },
   "JPY": {
     "code": "JPY",
-    "iso": "JPY",
     "lots": {
       "micro": 1000,
       "mini": 10000,
@@ -122,8 +441,521 @@
       "round": 3
     },
     "sign": {
+      "iso": "JPY",
       "long": "¥",
       "short": "¥"
+    },
+    "type": "currency"
+  },
+  "KRW": {
+    "code": "KRW",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "south_korean_won",
+      "localized": "South Korean won"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 2,
+      "pipette": 3,
+      "round": 3
+    },
+    "format": {
+      "round": 3
+    },
+    "sign": {
+      "iso": "KRW",
+      "long": "₩",
+      "short": "₩"
+    },
+    "type": "currency"
+  },
+  "KWD": {
+    "code": "KWD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "kuwaiti_dinar",
+      "localized": "Kuwaiti dinar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "sign": {
+      "iso": "KWD",
+      "long": "KD",
+      "short": "د.ك"
+    },
+    "type": "currency"
+  },
+  "MXN": {
+    "code": "MXN",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "mexican_peso",
+      "localized": "Mexican peso"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "sign": {
+      "iso": "MXN",
+      "long": "Mex$",
+      "short": "$"
+    },
+    "type": "currency"
+  },
+  "NGN": {
+    "code": "NGN",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "nigerian_naira",
+      "localized": "Nigerian naira"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 2,
+      "pipette": 3,
+      "round": 3
+    },
+    "format": {
+      "round": 3
+    },
+    "sign": {
+      "iso": "NGN",
+      "long": "₦",
+      "short": "₦"
+    },
+    "type": "currency"
+  },
+  "NOK": {
+    "code": "NOK",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "norwegian_krone",
+      "localized": "Norwegian krone"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "sign": {
+      "iso": "NOK",
+      "long": "kr",
+      "short": "kr"
+    },
+    "type": "currency"
+  },
+  "NZD": {
+    "code": "NZD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "new_zealand_dollar",
+      "localized": "New Zealand dollar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "NZD",
+      "long": "$",
+      "short": "$"
+    },
+    "type": "currency"
+  },
+  "PLN": {
+    "code": "PLN",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "polish_złoty",
+      "localized": "Polish złoty"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "PLN",
+      "long": "zł",
+      "short": "zł"
+    },
+    "type": "currency"
+  },
+  "RON": {
+    "code": "RON",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "romanian_leu",
+      "localized": "Romanian leu"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "RON",
+      "long": "lei",
+      "short": "lei"
+    },
+    "type": "currency"
+  },
+  "RUB": {
+    "code": "RUB",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "russian_ruble",
+      "localized": "Russian Ruble"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "RUB",
+      "long": "₽",
+      "short": "₽"
+    },
+    "type": "currency"
+  },
+  "SAR": {
+    "code": "SAR",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "saudi_riyal",
+      "localized": "Saudi riyal"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "SAR",
+      "long": "SِAR",
+      "short": "SِAR"
+    },
+    "type": "currency"
+  },
+  "SEK": {
+    "code": "SEK",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "swedish_krona",
+      "localized": "Swedish krona"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "SEK",
+      "long": "kr",
+      "short": "kr"
+    },
+    "type": "currency"
+  },
+  "SGD": {
+    "code": "SGD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "singapore_dollar",
+      "localized": "Singapore dollar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "SGD",
+      "long": "S$",
+      "short": "$"
+    },
+    "type": "currency"
+  },
+  "THB": {
+    "code": "THB",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "thai_baht",
+      "localized": "Thai baht"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 2,
+      "pipette": 3,
+      "round": 3
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "THB",
+      "long": "฿",
+      "short": "฿"
+    },
+    "type": "currency"
+  },
+  "TRY": {
+    "code": "TRY",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "Turkish lira",
+      "localized": "Turkish lira"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "TRY",
+      "long": "₺",
+      "short": "₺"
+    },
+    "type": "currency"
+  },
+  "USD": {
+    "code": "USD",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "american_dollar",
+      "localized": "United States dollar"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "EUR",
+      "long": "US$",
+      "short": "$"
+    },
+    "type": "currency"
+  },
+  "ZAR": {
+    "code": "ZAR",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "south_african_rand",
+      "localized": "South African rand"
+    },
+    "pair": {
+      "base": true,
+      "counter": true
+    },
+    "pip": {
+      "precision": 4,
+      "pipette": 5,
+      "round": 5
+    },
+    "format": {
+      "round": 3
+    },
+    "symbol": {
+      "ticker": "ZAR",
+      "long": "R",
+      "short": "R"
     },
     "type": "currency"
   }
