@@ -1,0 +1,216 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "Instrument",
+  "required": ["code", "name", "pair", "pip", "format", "symbol", "type"],
+  "properties": {
+    "code": {
+      "$id": "#/properties/code",
+      "type": "string",
+      "title": "Code",
+      "default": "",
+      "examples": ["USD"],
+      "pattern": "^(.*)$"
+    },
+    "lots": {
+      "$id": "#/properties/lots",
+      "type": "object",
+      "title": "Lots",
+      "default": null,
+      "properties": {
+        "micro": {
+          "$id": "#/properties/lots/properties/micro",
+          "type": "integer",
+          "title": "Micro",
+          "default": 0,
+          "examples": [1000],
+          "minimum": 0.0
+        },
+        "mini": {
+          "$id": "#/properties/lots/properties/mini",
+          "type": "integer",
+          "title": "Mini",
+          "default": 0,
+          "examples": [10000],
+          "minimum": 0.0
+        },
+        "nano": {
+          "$id": "#/properties/lots/properties/nano",
+          "type": "integer",
+          "title": "Nano",
+          "default": 0,
+          "examples": [100],
+          "minimum": 0.0
+        },
+        "standard": {
+          "$id": "#/properties/lots/properties/standard",
+          "type": "integer",
+          "title": "Standard",
+          "default": 0,
+          "examples": [100000],
+          "minimum": 0.0
+        },
+        "unit": {
+          "$id": "#/properties/lots/properties/unit",
+          "type": "string",
+          "title": "Unit",
+          "default": "",
+          "examples": ["forex"],
+          "pattern": "^(.*)$"
+        }
+      },
+      "required": ["standard", "unit"]
+    },
+    "name": {
+      "$id": "#/properties/name",
+      "type": "object",
+      "title": "Name",
+      "required": ["key", "localized"],
+      "properties": {
+        "key": {
+          "$id": "#/properties/name/properties/key",
+          "type": "string",
+          "title": "Key",
+          "default": "",
+          "examples": ["american_dollar"],
+          "pattern": "^(.*)$"
+        },
+        "localized": {
+          "$id": "#/properties/name/properties/localized",
+          "type": "string",
+          "title": "Localized",
+          "default": "",
+          "examples": ["United States dollar"],
+          "pattern": "^(.*)$"
+        }
+      }
+    },
+    "pair": {
+      "$id": "#/properties/pair",
+      "type": "object",
+      "title": "Pair",
+      "required": ["base", "counter"],
+      "properties": {
+        "base": {
+          "$id": "#/properties/pair/properties/base",
+          "type": "boolean",
+          "title": "Base",
+          "default": true,
+          "examples": [true]
+        },
+        "counter": {
+          "$id": "#/properties/pair/properties/counter",
+          "type": "boolean",
+          "title": "Counter",
+          "default": true,
+          "examples": [true]
+        }
+      }
+    },
+    "pip": {
+      "$id": "#/properties/pip",
+      "type": "object",
+      "title": "Pip",
+      "required": ["precision", "pipette", "round"],
+      "properties": {
+        "precision": {
+          "$id": "#/properties/pip/properties/precision",
+          "type": "integer",
+          "title": "Precision",
+          "default": 0,
+          "examples": [4],
+          "minimum": 0.0
+        },
+        "pipette": {
+          "$id": "#/properties/pip/properties/pipette",
+          "type": "integer",
+          "title": "Pipette",
+          "default": 0,
+          "examples": [5],
+          "minimum": 0.0
+        },
+        "round": {
+          "$id": "#/properties/pip/properties/round",
+          "type": "integer",
+          "title": "Round",
+          "default": 0,
+          "examples": [5],
+          "minimum": 0.0
+        }
+      }
+    },
+    "format": {
+      "$id": "#/properties/format",
+      "type": "object",
+      "title": "Format",
+      "required": ["round"],
+      "properties": {
+        "round": {
+          "$id": "#/properties/format/properties/round",
+          "type": "integer",
+          "title": "Round",
+          "default": 0,
+          "examples": [3],
+          "minimum": 0.0
+        }
+      }
+    },
+    "symbol": {
+      "$id": "#/properties/symbol",
+      "type": "object",
+      "title": "Symbol",
+      "required": ["ticker", "long", "short"],
+      "properties": {
+        "ticker": {
+          "$id": "#/properties/symbol/properties/ticker",
+          "type": "string",
+          "title": "Ticker",
+          "default": "",
+          "examples": ["USD"],
+          "pattern": "^(.*)$"
+        },
+        "long": {
+          "$id": "#/properties/symbol/properties/long",
+          "type": "string",
+          "title": "Long",
+          "default": "",
+          "examples": ["US$"],
+          "pattern": "^(.*)$"
+        },
+        "short": {
+          "$id": "#/properties/symbol/properties/short",
+          "type": "string",
+          "title": "Short",
+          "default": "",
+          "examples": ["$"],
+          "pattern": "^(.*)$"
+        }
+      }
+    },
+    "type": {
+      "$id": "#/properties/type",
+      "type": "object",
+      "title": "Type",
+      "required": ["main"],
+      "properties": {
+        "main": {
+          "$id": "#/properties/type/properties/main",
+          "type": "string",
+          "title": "Main",
+          "default": "",
+          "examples": ["currency"],
+          "pattern": "^(.*)$"
+        },
+        "sub": {
+          "$id": "#/properties/type/properties/sub",
+          "type": "string",
+          "title": "Sub",
+          "examples": ["metal"],
+          "default": ""
+        }
+      }
+    }
+  }
+}
