@@ -1,160 +1,407 @@
 {
   "ADA": {
     "code": "ADA",
-    "iso": "ADA",
+    "format": {
+      "round": 6
+    },
     "name": {
       "key": "cardano",
       "localized": "Cardano"
     },
     "pair": {
       "base": true,
-      "counter": true
+      "counter": false
     },
-    "pip": 5,
-    "pipPrecision": 6,
-    "sign": {
+    "pip": {
+      "pipette": 6,
+      "precision": 5,
+      "round": 6
+    },
+    "symbol": {
       "long": "ADA",
-      "short": "ADA"
+      "short": "ADA",
+      "ticker": "ADA"
     },
-    "type": "crypto"
+    "type": {
+      "main": "crypto"
+    }
   },
   "BCH": {
     "code": "BCH",
-    "iso": "BCH",
+    "format": {
+      "round": 3
+    },
     "name": {
       "key": "bitcoin_cash",
       "localized": "Bitcoin Cash"
     },
     "pair": {
       "base": true,
-      "counter": true
+      "counter": false
     },
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign": {
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
       "long": "BCH",
-      "short": "BCH"
+      "short": "BCH",
+      "ticker": "BCH"
     },
-    "type": "crypto"
+    "type": {
+      "main": "crypto"
+    }
   },
   "BNB": {
     "code": "BNB",
-    "iso": "BNB",
+    "format": {
+      "round": 6
+    },
     "name": {
       "key": "binance_coin",
       "localized": "Binance Coin"
     },
-    "pip": 5,
-    "pipPrecision": 6,
-    "sign_short": "BNB",
-    "type": "crypto"
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 6,
+      "precision": 5,
+      "round": 6
+    },
+    "symbol": {
+      "long": "BNB",
+      "short": "BNB",
+      "ticker": "BNB"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "BTC": {
     "code": "BTC",
-    "iso": "XBT",
-    "name": "Bitcoin",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "₿",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "bitcoin",
+      "localized": "Bitcoin"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "BTC",
+      "short": "₿",
+      "ticker": "XBT"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "DSH": {
     "code": "DSH",
-    "iso": "DSH",
-    "name": "Dash",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "DSH",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "dash",
+      "localized": "Dash"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "DSH",
+      "short": "DSH",
+      "ticker": "DSH"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "EOS": {
     "code": "EOS",
-    "iso": "EOS",
-    "name": "EOS",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "EOS",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "eos",
+      "localized": "EOS"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "EOS",
+      "short": "EOS",
+      "ticker": "EOS"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "ETC": {
     "code": "ETC",
-    "iso": "ETC",
-    "name": "Ethereum Classic",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "ETC",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "ethereum_classic",
+      "localized": "Ethereum Classic"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "ETC",
+      "short": "ETC",
+      "ticker": "ETC"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "ETH": {
     "code": "ETH",
-    "iso": "ETH",
-    "name": "Ethereum",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "ETH",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "ethereum",
+      "localized": "Ethereum"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "ETH",
+      "short": "ETH",
+      "ticker": "ETH"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "LTC": {
     "code": "LTC",
-    "iso": "LTC",
-    "name": "Litecoin",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "LTC",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "litecoin",
+      "localized": "Litecoin"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "LTC",
+      "short": "LTC",
+      "ticker": "LTC"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "MIOTA": {
     "code": "MIOTA",
-    "iso": "MIOTA",
-    "name": "IOTA",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "MIOTA",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "iota",
+      "localized": "IOTA"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "MIOTA",
+      "short": "MIOTA",
+      "ticker": "MIOTA"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "NEO": {
     "code": "NEO",
-    "iso": "NEO",
-    "name": "NEO",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "NEO",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "neo",
+      "localized": "NEO"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "NEO",
+      "short": "NEO",
+      "ticker": "NEO"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "TRX": {
     "code": "TRX",
-    "iso": "TRX",
-    "name": "TRON",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "TRX",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "tron",
+      "localized": "TRON"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "TRX",
+      "short": "TRX",
+      "ticker": "TRX"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "XLM": {
     "code": "XLM",
-    "iso": "XLM",
-    "name": "Stellar",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "XLM",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "stellar",
+      "localized": "Stellar"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "XLM",
+      "short": "XLM",
+      "ticker": "XLM"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "XMR": {
     "code": "XMR",
-    "iso": "XMR",
-    "name": "Monero",
-    "pip": 2,
-    "pipPrecision": 2,
-    "sign_short": "ɱ",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "monero",
+      "localized": "Monero"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "XMR",
+      "short": "ɱ",
+      "ticker": "XMR"
+    },
+    "type": {
+      "main": "crypto"
+    }
   },
   "XRP": {
     "code": "XRP",
-    "iso": "XRP",
-    "name": "Ripple",
-    "pip": 4,
-    "pipPrecision": 5,
-    "sign_short": "XRP",
-    "type": "crypto"
+    "format": {
+      "round": 3
+    },
+    "name": {
+      "key": "ripple",
+      "localized": "Ripple"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    },
+    "symbol": {
+      "long": "XRP",
+      "short": "XRP",
+      "ticker": "XRP"
+    },
+    "type": {
+      "main": "crypto"
+    }
   }
 }
