@@ -2,7 +2,7 @@
   "ADA": {
     "code": "ADA",
     "format": {
-      "round": 6
+      "round": 7
     },
     "name": {
       "key": "cardano",
@@ -13,9 +13,9 @@
       "counter": false
     },
     "pip": {
-      "pipette": 6,
-      "precision": 5,
-      "round": 6
+      "pipette": 7,
+      "precision": 6,
+      "round": 7
     },
     "symbol": {
       "long": "ADA",
@@ -137,7 +137,7 @@
   "EOS": {
     "code": "EOS",
     "format": {
-      "round": 3
+      "round": 5
     },
     "name": {
       "key": "eos",
@@ -148,9 +148,9 @@
       "counter": false
     },
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "symbol": {
       "long": "EOS",
@@ -175,9 +175,9 @@
       "counter": false
     },
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 4,
+      "precision": 3,
+      "round": 4
     },
     "symbol": {
       "long": "ETC",
@@ -242,33 +242,6 @@
       "main": "crypto"
     }
   },
-  "MIOTA": {
-    "code": "MIOTA",
-    "format": {
-      "round": 3
-    },
-    "name": {
-      "key": "iota",
-      "localized": "IOTA"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
-    "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
-    },
-    "symbol": {
-      "long": "MIOTA",
-      "short": "MIOTA",
-      "ticker": "MIOTA"
-    },
-    "type": {
-      "main": "crypto"
-    }
-  },
   "NEO": {
     "code": "NEO",
     "format": {
@@ -299,7 +272,7 @@
   "TRX": {
     "code": "TRX",
     "format": {
-      "round": 3
+      "round": 7
     },
     "name": {
       "key": "tron",
@@ -310,9 +283,9 @@
       "counter": false
     },
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 6,
+      "precision": 7,
+      "round": 6
     },
     "symbol": {
       "long": "TRX",
@@ -326,7 +299,7 @@
   "XLM": {
     "code": "XLM",
     "format": {
-      "round": 3
+      "round": 7
     },
     "name": {
       "key": "stellar",
@@ -337,9 +310,9 @@
       "counter": false
     },
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 6,
+      "precision": 7,
+      "round": 6
     },
     "symbol": {
       "long": "XLM",
@@ -380,7 +353,7 @@
   "XRP": {
     "code": "XRP",
     "format": {
-      "round": 3
+      "round": 6
     },
     "name": {
       "key": "ripple",
@@ -391,9 +364,9 @@
       "counter": false
     },
     "pip": {
-      "pipette": 5,
-      "precision": 4,
-      "round": 5
+      "pipette": 6,
+      "precision": 5,
+      "round": 6
     },
     "symbol": {
       "long": "XRP",
