@@ -1,0 +1,177 @@
+{
+  "BCO": {
+    "code": "BCO",
+    "format": {
+      "round": 3
+    },
+    "lots": {
+      "micro": 10,
+      "mini": 100,
+      "normalized": false,
+      "standard": 1000,
+      "unit": "barrel"
+    },
+    "name": {
+      "key": "brent_crude_oil",
+      "localized": "Brent Crude Oil"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "BCO",
+      "short": "BCO",
+      "ticker": "BCO"
+    },
+    "type": {
+      "main": "commodity",
+      "sub": "energy"
+    }
+  },
+  "NATGAS": {
+    "code": "NATGAS",
+    "format": {
+      "round": 3
+    },
+    "lots": {
+      "micro": 1250,
+      "mini": 2500,
+      "normalized": false,
+      "standard": 10000,
+      "unit": "mmbtu"
+    },
+    "name": {
+      "key": "natural_gas",
+      "localized": "Natural Gas"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "NATGAS",
+      "short": "NATGAS",
+      "ticker": "NATGAS"
+    },
+    "type": {
+      "main": "commodity",
+      "sub": "energy"
+    }
+  },
+  "WTI": {
+    "code": "WTI",
+    "format": {
+      "round": 3
+    },
+    "lots": {
+      "micro": 10,
+      "mini": 100,
+      "normalized": false,
+      "standard": 1000,
+      "unit": "barrel"
+    },
+    "name": {
+      "key": "west_texas_oil",
+      "localized": "West Texas Oil"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "WTI",
+      "short": "WTI",
+      "ticker": "WTI"
+    },
+    "type": {
+      "main": "commodity",
+      "sub": "energy"
+    }
+  },
+  "XAG": {
+    "code": "XAG",
+    "format": {
+      "round": 3
+    },
+    "lots": {
+      "micro": 50,
+      "mini": 500,
+      "normalized": true,
+      "standard": 5000,
+      "unit": "ounce"
+    },
+    "name": {
+      "key": "silver",
+      "localized": "Silver"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    },
+    "symbol": {
+      "long": "XAG",
+      "short": "XAG",
+      "ticker": "XAG"
+    },
+    "type": {
+      "main": "commodity",
+      "sub": "metal"
+    }
+  },
+  "XAU": {
+    "code": "XAU",
+    "format": {
+      "round": 3
+    },
+    "lots": {
+      "micro": 1,
+      "mini": 10,
+      "normalized": true,
+      "standard": 100,
+      "unit": "ounce"
+    },
+    "name": {
+      "key": "gold",
+      "localized": "gold"
+    },
+    "pair": {
+      "base": true,
+      "counter": false
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "XAU",
+      "short": "XAU",
+      "ticker": "XAU"
+    },
+    "type": {
+      "main": "commodity",
+      "sub": "metal"
+    }
+  }
+}
