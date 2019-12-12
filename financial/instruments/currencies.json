@@ -480,7 +480,7 @@
       "precision": 2,
       "round": 3
     },
-    "sign": {
+    "symbol": {
       "iso": "JPY",
       "long": "¥",
       "short": "¥"
@@ -515,7 +515,7 @@
       "precision": 2,
       "round": 3
     },
-    "sign": {
+    "symbol": {
       "iso": "KRW",
       "long": "₩",
       "short": "₩"
@@ -550,7 +550,7 @@
       "precision": 4,
       "round": 5
     },
-    "sign": {
+    "symbol": {
       "iso": "KWD",
       "long": "KD",
       "short": "د.ك"
@@ -585,7 +585,7 @@
       "precision": 4,
       "round": 5
     },
-    "sign": {
+    "symbol": {
       "iso": "MXN",
       "long": "Mex$",
       "short": "$"
@@ -620,7 +620,7 @@
       "precision": 2,
       "round": 3
     },
-    "sign": {
+    "symbol": {
       "iso": "NGN",
       "long": "₦",
       "short": "₦"
@@ -655,7 +655,7 @@
       "precision": 4,
       "round": 5
     },
-    "sign": {
+    "symbol": {
       "iso": "NOK",
       "long": "kr",
       "short": "kr"
