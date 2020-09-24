@@ -16,10 +16,6 @@
       "key": "australian_dollar",
       "localized": "Australian Dollar"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -50,10 +46,6 @@
     "name": {
       "key": "brazilian_real",
       "localized": "Brazilian real"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 4,
@@ -86,10 +78,6 @@
       "key": "canadian_dollar",
       "localized": "Canadian Dollar"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -120,10 +108,6 @@
     "name": {
       "key": "swiss_franc",
       "localized": "Swiss franc"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -156,10 +140,6 @@
       "key": "chinese_yuan_renminbi",
       "localized": "Chinese Yuan Renminbi"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -190,10 +170,6 @@
     "name": {
       "key": "czech_koruna",
       "localized": "Czech koruna"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -226,10 +202,6 @@
       "key": "danish_krone",
       "localized": "Danish krone"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -260,10 +232,6 @@
     "name": {
       "key": "euro",
       "localized": "Euro"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -296,10 +264,6 @@
       "key": "pound_sterling",
       "localized": "Pound sterling"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -330,10 +294,6 @@
     "name": {
       "key": "hong_kong_dollar",
       "localized": "Hong Kong dollar"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -366,10 +326,6 @@
       "key": "hungarian_forint",
       "localized": "Hungarian forint"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -400,10 +356,6 @@
     "name": {
       "key": "israeli_new_shekel",
       "localized": "Israeli new shekel"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -436,10 +388,6 @@
       "key": "indian_rupee",
       "localized": "Indian rupee"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -470,10 +418,6 @@
     "name": {
       "key": "japanese_yen",
       "localized": "Japanese yen"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 3,
@@ -506,10 +450,6 @@
       "key": "south_korean_won",
       "localized": "South Korean won"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -540,10 +480,6 @@
     "name": {
       "key": "kuwaiti_dinar",
       "localized": "Kuwaiti dinar"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -576,10 +512,6 @@
       "key": "mexican_peso",
       "localized": "Mexican peso"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -610,10 +542,6 @@
     "name": {
       "key": "nigerian_naira",
       "localized": "Nigerian naira"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 3,
@@ -646,10 +574,6 @@
       "key": "norwegian_krone",
       "localized": "Norwegian krone"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -680,10 +604,6 @@
     "name": {
       "key": "new_zealand_dollar",
       "localized": "New Zealand dollar"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -716,10 +636,6 @@
       "key": "polish_złoty",
       "localized": "Polish złoty"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -750,10 +666,6 @@
     "name": {
       "key": "romanian_leu",
       "localized": "Romanian leu"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -786,10 +698,6 @@
       "key": "russian_ruble",
       "localized": "Russian Ruble"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -820,10 +728,6 @@
     "name": {
       "key": "saudi_riyal",
       "localized": "Saudi riyal"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -856,10 +760,6 @@
       "key": "swedish_krona",
       "localized": "Swedish krona"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -890,10 +790,6 @@
     "name": {
       "key": "singapore_dollar",
       "localized": "Singapore dollar"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -926,10 +822,6 @@
       "key": "thai_baht",
       "localized": "Thai baht"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -960,10 +852,6 @@
     "name": {
       "key": "Turkish lira",
       "localized": "Turkish lira"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,
@@ -996,10 +884,6 @@
       "key": "american_dollar",
       "localized": "United States dollar"
     },
-    "pair": {
-      "base": true,
-      "counter": true
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -1030,10 +914,6 @@
     "name": {
       "key": "south_african_rand",
       "localized": "South African rand"
-    },
-    "pair": {
-      "base": true,
-      "counter": true
     },
     "pip": {
       "pipette": 5,

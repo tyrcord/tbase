@@ -1,0 +1,51 @@
+{
+  "AUDUSD": {
+    "base": "AUD",
+    "counter": "USD",
+    "type": {
+      "main": "major"
+    }
+  },
+  "EURUSD": {
+    "base": "EUR",
+    "counter": "USD",
+    "type": {
+      "main": "major"
+    }
+  },
+  "GBPUSD": {
+    "base": "GBP",
+    "counter": "USD",
+    "type": {
+      "main": "major"
+    }
+  },
+  "NZDUSD": {
+    "base": "NZD",
+    "counter": "USD",
+    "type": {
+      "main": "major"
+    }
+  },
+  "USDCAD": {
+    "base": "USD",
+    "counter": "CAD",
+    "type": {
+      "main": "major"
+    }
+  },
+  "USDCHF": {
+    "base": "USD",
+    "counter": "CHF",
+    "type": {
+      "main": "major"
+    }
+  },
+  "USDJPY": {
+    "base": "USD",
+    "counter": "JPY",
+    "type": {
+      "main": "major"
+    }
+  }
+}

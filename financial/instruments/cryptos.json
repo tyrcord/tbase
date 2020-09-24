@@ -8,10 +8,6 @@
       "key": "cardano",
       "localized": "Cardano"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 7,
       "precision": 6,
@@ -34,10 +30,6 @@
     "name": {
       "key": "bitcoin_cash",
       "localized": "Bitcoin Cash"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 3,
@@ -62,10 +54,6 @@
       "key": "binance_coin",
       "localized": "Binance Coin"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 6,
       "precision": 5,
@@ -88,10 +76,6 @@
     "name": {
       "key": "bitcoin",
       "localized": "Bitcoin"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 3,
@@ -116,10 +100,6 @@
       "key": "dash",
       "localized": "Dash"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -142,10 +122,6 @@
     "name": {
       "key": "eos",
       "localized": "EOS"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 5,
@@ -170,10 +146,6 @@
       "key": "ethereum_classic",
       "localized": "Ethereum Classic"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 4,
       "precision": 3,
@@ -196,10 +168,6 @@
     "name": {
       "key": "ethereum",
       "localized": "Ethereum"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 3,
@@ -224,10 +192,6 @@
       "key": "litecoin",
       "localized": "Litecoin"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -250,10 +214,6 @@
     "name": {
       "key": "neo",
       "localized": "NEO"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 3,
@@ -278,10 +238,6 @@
       "key": "tron",
       "localized": "TRON"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 6,
       "precision": 7,
@@ -304,10 +260,6 @@
     "name": {
       "key": "stellar",
       "localized": "Stellar"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 6,
@@ -332,10 +284,6 @@
       "key": "monero",
       "localized": "Monero"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -358,10 +306,6 @@
     "name": {
       "key": "ripple",
       "localized": "Ripple"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 6,

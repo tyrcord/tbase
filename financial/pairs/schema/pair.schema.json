@@ -1,0 +1,50 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "Pair",
+  "required": ["base", "counter", "type"],
+  "properties": {
+    "base": {
+      "$id": "#/properties/base",
+      "type": "string",
+      "title": "Base",
+      "default": "",
+      "examples": ["USD"],
+      "pattern": "^(.*)$"
+    },
+    "counter": {
+      "$id": "#/properties/counter",
+      "type": "string",
+      "title": "Counter",
+      "default": "",
+      "examples": ["CAD"],
+      "pattern": "^(.*)$"
+    },
+    "type": {
+      "$id": "#/properties/type",
+      "type": "object",
+      "title": "Type",
+      "required": ["main"],
+      "properties": {
+        "main": {
+          "$id": "#/properties/type/properties/main",
+          "type": "string",
+          "title": "Main",
+          "default": "",
+          "examples": ["currency"],
+          "pattern": "^(.*)$"
+        },
+        "sub": {
+          "$id": "#/properties/type/properties/sub",
+          "type": "string",
+          "title": "Sub",
+          "examples": ["metal"],
+          "default": "",
+          "pattern": "^(.*)$"
+        }
+      }
+    }
+  }
+}

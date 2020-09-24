@@ -4,7 +4,7 @@
   "$id": "http://example.com/root.json",
   "type": "object",
   "title": "Instrument",
-  "required": ["code", "name", "pair", "pip", "format", "symbol", "type"],
+  "required": ["code", "name", "pip", "format", "symbol", "type"],
   "properties": {
     "code": {
       "$id": "#/properties/code",
@@ -84,28 +84,6 @@
           "default": "",
           "examples": ["United States dollar"],
           "pattern": "^(.*)$"
-        }
-      }
-    },
-    "pair": {
-      "$id": "#/properties/pair",
-      "type": "object",
-      "title": "Pair",
-      "required": ["base", "counter"],
-      "properties": {
-        "base": {
-          "$id": "#/properties/pair/properties/base",
-          "type": "boolean",
-          "title": "Base",
-          "default": true,
-          "examples": [true]
-        },
-        "counter": {
-          "$id": "#/properties/pair/properties/counter",
-          "type": "boolean",
-          "title": "Counter",
-          "default": true,
-          "examples": [true]
         }
       }
     },

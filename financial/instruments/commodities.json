@@ -15,10 +15,6 @@
       "key": "brent_crude_oil",
       "localized": "Brent Crude Oil"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -49,10 +45,6 @@
     "name": {
       "key": "natural_gas",
       "localized": "Natural Gas"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 3,
@@ -85,10 +77,6 @@
       "key": "west_texas_oil",
       "localized": "West Texas Oil"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 3,
       "precision": 2,
@@ -120,10 +108,6 @@
       "key": "silver",
       "localized": "Silver"
     },
-    "pair": {
-      "base": true,
-      "counter": false
-    },
     "pip": {
       "pipette": 5,
       "precision": 4,
@@ -154,10 +138,6 @@
     "name": {
       "key": "gold",
       "localized": "gold"
-    },
-    "pair": {
-      "base": true,
-      "counter": false
     },
     "pip": {
       "pipette": 3,
