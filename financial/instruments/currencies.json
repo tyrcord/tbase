@@ -850,8 +850,8 @@
       "unit": "forex"
     },
     "name": {
-      "key": "Turkish lira",
-      "localized": "turkish_lira"
+      "key": "turkish_lira",
+      "localized": "Turkish lira"
     },
     "pip": {
       "pipette": 5,
