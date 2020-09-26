@@ -1,0 +1,18 @@
+{
+  "XPDUSD": {
+    "base": "XPD",
+    "counter": "USD",
+    "type": {
+      "main": "commodity",
+      "sub": "metal"
+    }
+  },
+  "XPTUSD": {
+    "base": "XPT",
+    "counter": "USD",
+    "type": {
+      "main": "commodity",
+      "sub": "metal"
+    }
+  }
+}

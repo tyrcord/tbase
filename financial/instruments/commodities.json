@@ -1,38 +1,6 @@
 {
-  "NG": {
-    "code": "NG",
-    "format": {
-      "round": 3
-    },
-    "icon": "gas",
-    "lots": {
-      "micro": 1250,
-      "mini": 2500,
-      "normalized": false,
-      "standard": 10000,
-      "unit": "mmbtu"
-    },
-    "name": {
-      "key": "natural_gas",
-      "localized": "Natural Gas"
-    },
-    "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
-    },
-    "symbol": {
-      "long": "NG",
-      "short": "NG",
-      "ticker": "NG"
-    },
-    "type": {
-      "main": "commodity",
-      "sub": "energy"
-    }
-  },
-  "UKOIL": {
-    "code": "UKOIL",
+  "BZ": {
+    "code": "BZ",
     "format": {
       "round": 3
     },
@@ -63,8 +31,8 @@
       "sub": "energy"
     }
   },
-  "USOIL": {
-    "code": "USOIL",
+  "CL": {
+    "code": "CL",
     "format": {
       "round": 3
     },
@@ -77,8 +45,8 @@
       "unit": "barrel"
     },
     "name": {
-      "key": "west_texas_oil",
-      "localized": "West Crude Oil"
+      "key": "crude_oil",
+      "localized": "Crude Oil"
     },
     "pip": {
       "pipette": 3,
@@ -89,6 +57,38 @@
       "long": "CL",
       "short": "CL",
       "ticker": "CL"
+    },
+    "type": {
+      "main": "commodity",
+      "sub": "energy"
+    }
+  },
+  "NG": {
+    "code": "NG",
+    "format": {
+      "round": 3
+    },
+    "icon": "gas",
+    "lots": {
+      "micro": 1250,
+      "mini": 2500,
+      "normalized": false,
+      "standard": 10000,
+      "unit": "mmbtu"
+    },
+    "name": {
+      "key": "natural_gas",
+      "localized": "Natural Gas"
+    },
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "symbol": {
+      "long": "NG",
+      "short": "NG",
+      "ticker": "NG"
     },
     "type": {
       "main": "commodity",
