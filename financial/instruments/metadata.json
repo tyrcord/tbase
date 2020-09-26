@@ -8,13 +8,13 @@
       "long": "unit",
       "short": "unit"
     },
-    "ounce": {
-      "long": "ounce",
-      "short": "oz"
-    },
     "mmbtu": {
       "long": "metric million british Thermal unit",
       "short": "MMBtu"
+    },
+    "ounce": {
+      "long": "ounce",
+      "short": "oz"
     }
   }
 }

@@ -4,7 +4,7 @@
   "$id": "http://example.com/root.json",
   "type": "object",
   "title": "Instrument",
-  "required": ["code", "name", "pip", "format", "symbol", "type"],
+  "required": ["code", "name", "pip", "format", "symbol", "type", "icon"],
   "properties": {
     "code": {
       "$id": "#/properties/code",
@@ -12,6 +12,14 @@
       "title": "Code",
       "default": "",
       "examples": ["USD"],
+      "pattern": "^(.*)$"
+    },
+    "icon": {
+      "$id": "#/properties/icon",
+      "type": "string",
+      "title": "Icon",
+      "default": "",
+      "examples": ["icon"],
       "pattern": "^(.*)$"
     },
     "lots": {
