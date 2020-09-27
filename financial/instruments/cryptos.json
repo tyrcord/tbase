@@ -19,9 +19,7 @@
       "short": "BCH",
       "ticker": "BCH"
     },
-    "type": {
-      "main": "crypto"
-    }
+    "type": "crypto"
   },
   "BTC": {
     "code": "BTC",
@@ -43,9 +41,7 @@
       "short": "₿",
       "ticker": "XBT"
     },
-    "type": {
-      "main": "crypto"
-    }
+    "type": "crypto"
   },
   "DSH": {
     "code": "DSH",
@@ -67,9 +63,7 @@
       "short": "DSH",
       "ticker": "DSH"
     },
-    "type": {
-      "main": "crypto"
-    }
+    "type": "crypto"
   },
   "ETH": {
     "code": "ETH",
@@ -91,9 +85,7 @@
       "short": "ETH",
       "ticker": "ETH"
     },
-    "type": {
-      "main": "crypto"
-    }
+    "type": "crypto"
   },
   "LTC": {
     "code": "LTC",
@@ -115,9 +107,7 @@
       "short": "LTC",
       "ticker": "LTC"
     },
-    "type": {
-      "main": "crypto"
-    }
+    "type": "crypto"
   },
   "XRP": {
     "code": "XRP",
@@ -139,8 +129,6 @@
       "short": "XRP",
       "ticker": "XRP"
     },
-    "type": {
-      "main": "crypto"
-    }
+    "type": "crypto"
   }
 }

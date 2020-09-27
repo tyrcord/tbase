@@ -2,193 +2,121 @@
   "BZUSD": {
     "base": "BZ",
     "counter": "USD",
-    "type": {
-      "main": "commodity",
-      "sub": "energy"
-    }
+    "type": "commodity_energy"
   },
   "CLUSD": {
     "base": "CL",
     "counter": "USD",
-    "type": {
-      "main": "commodity",
-      "sub": "energy"
-    }
+    "type": "commodity_energy"
   },
   "NGUSD": {
     "base": "NG",
     "counter": "USD",
-    "type": {
-      "main": "commodity",
-      "sub": "energy"
-    }
+    "type": "commodity_energy"
   },
   "XAGAUD": {
     "base": "XAG",
     "counter": "AUD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGCAD": {
     "base": "XAG",
     "counter": "CAD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGCHF": {
     "base": "XAG",
     "counter": "CHF",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGEUR": {
     "base": "XAG",
     "counter": "EUR",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGGBP": {
     "base": "XAG",
     "counter": "GBP",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGHKD": {
     "base": "XAG",
     "counter": "HKD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGJPY": {
     "base": "XAG",
     "counter": "JPY",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGNZD": {
     "base": "XAG",
     "counter": "NZD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGSGD": {
     "base": "XAG",
     "counter": "SGD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAGUSD": {
     "base": "XAG",
     "counter": "USD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUAUD": {
     "base": "XAU",
     "counter": "AUD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUCAD": {
     "base": "XAU",
     "counter": "CAD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUCHF": {
     "base": "XAU",
     "counter": "CHF",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUEUR": {
     "base": "XAU",
     "counter": "EUR",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUGBP": {
     "base": "XAU",
     "counter": "GBP",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUHKD": {
     "base": "XAU",
     "counter": "HKD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUJPY": {
     "base": "XAU",
     "counter": "JPY",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUNZD": {
     "base": "XAU",
     "counter": "NZD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUSGD": {
     "base": "XAU",
     "counter": "SGD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUUSD": {
     "base": "XAU",
     "counter": "USD",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   },
   "XAUXAG": {
     "base": "XAU",
     "counter": "XAG",
-    "type": {
-      "main": "commodity",
-      "sub": "metal"
-    }
+    "type": "commodity_metal"
   }
 }

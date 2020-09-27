@@ -1,0 +1,34 @@
+{
+  "pair_types": {
+    "currency_major": {
+      "main": "major",
+      "weight": 100
+    },
+    "currency_minor": {
+      "main": "minor",
+      "weight": 85
+    },
+    "currency_exotic": {
+      "main": "exotic",
+      "weight": 70
+    },
+    "indexes": {
+      "main": "index",
+      "weight": 55
+    },
+    "commodity_metal": {
+      "main": "commodity",
+      "sub": "metal",
+      "weight": 25
+    },
+    "commodity_energy": {
+      "main": "commodity",
+      "sub": "energy",
+      "weight": 25
+    },
+    "crypto": {
+      "main": "crypto",
+      "weight": 10
+    }
+  }
+}

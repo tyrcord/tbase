@@ -16,5 +16,29 @@
       "long": "ounce",
       "short": "oz"
     }
+  },
+  "instrument_types": {
+    "curency": {
+      "main": "currency",
+      "weight": 100
+    },
+    "indexes": {
+      "main": "index",
+      "weight": 75
+    },
+    "commodity_metal": {
+      "main": "commodity",
+      "sub": "metal",
+      "weight": 50
+    },
+    "commodity_energy": {
+      "main": "commodity",
+      "sub": "energy",
+      "weight": 50
+    },
+    "crypto": {
+      "main": "crypto",
+      "weight": 25
+    }
   }
 }

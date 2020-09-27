@@ -2,869 +2,621 @@
   "AUDCZK": {
     "base": "AUD",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDDKK": {
     "base": "AUD",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDHKD": {
     "base": "AUD",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDHUF": {
     "base": "AUD",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDMXN": {
     "base": "AUD",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDNOK": {
     "base": "AUD",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDPLN": {
     "base": "AUD",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDSEK": {
     "base": "AUD",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDSGD": {
     "base": "AUD",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "AUDZAR": {
     "base": "AUD",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADCZK": {
     "base": "CAD",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADDKK": {
     "base": "CAD",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADHKD": {
     "base": "CAD",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADHUF": {
     "base": "CAD",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADMXN": {
     "base": "CAD",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADNOK": {
     "base": "CAD",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADPLN": {
     "base": "CAD",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADSEK": {
     "base": "CAD",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADSGD": {
     "base": "CAD",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CADZAR": {
     "base": "CAD",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFCZK": {
     "base": "CHF",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFDKK": {
     "base": "CHF",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFHKD": {
     "base": "CHF",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFHUF": {
     "base": "CHF",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFMXN": {
     "base": "CHF",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFNOK": {
     "base": "CHF",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFPLN": {
     "base": "CHF",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFSEK": {
     "base": "CHF",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFSGD": {
     "base": "CHF",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFTRY": {
     "base": "CHF",
     "counter": "TRY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "CHFZAR": {
     "base": "CHF",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKCZK": {
     "base": "DKK",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKHKD": {
     "base": "DKK",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKHUF": {
     "base": "DKK",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKMXN": {
     "base": "DKK",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKNOK": {
     "base": "DKK",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKPLN": {
     "base": "DKK",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKSEK": {
     "base": "DKK",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKSGD": {
     "base": "DKK",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "DKKZAR": {
     "base": "DKK",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURCZK": {
     "base": "EUR",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURDKK": {
     "base": "EUR",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURHKD": {
     "base": "EUR",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURHUF": {
     "base": "EUR",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURMXN": {
     "base": "EUR",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURNOK": {
     "base": "EUR",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURPLN": {
     "base": "EUR",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURRON": {
     "base": "EUR",
     "counter": "RON",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURRUB": {
     "base": "EUR",
     "counter": "RUB",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURSEK": {
     "base": "EUR",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURSGD": {
     "base": "EUR",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURTRY": {
     "base": "EUR",
     "counter": "TRY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "EURZAR": {
     "base": "EUR",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPCZK": {
     "base": "GBP",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPDKK": {
     "base": "GBP",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPHKD": {
     "base": "GBP",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPHUF": {
     "base": "GBP",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPMXN": {
     "base": "GBP",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPNOK": {
     "base": "GBP",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPPLN": {
     "base": "GBP",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPRON": {
     "base": "GBP",
     "counter": "RON",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPSEK": {
     "base": "GBP",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPSGD": {
     "base": "GBP",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPTRY": {
     "base": "GBP",
     "counter": "TRY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "GBPZAR": {
     "base": "GBP",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "HKDJPY": {
     "base": "HKD",
     "counter": "JPY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYCZK": {
     "base": "JPY",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYDKK": {
     "base": "JPY",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYHKD": {
     "base": "JPY",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYHUF": {
     "base": "JPY",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYMXN": {
     "base": "JPY",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYNOK": {
     "base": "JPY",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYPLN": {
     "base": "JPY",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYSEK": {
     "base": "JPY",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYSGD": {
     "base": "JPY",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "JPYZAR": {
     "base": "JPY",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "MXNJPY": {
     "base": "MXN",
     "counter": "JPY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKCZK": {
     "base": "NOK",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKHKD": {
     "base": "NOK",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKHUF": {
     "base": "NOK",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKJPY": {
     "base": "NOK",
     "counter": "JPY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKMXN": {
     "base": "NOK",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKPLN": {
     "base": "NOK",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKSEK": {
     "base": "NOK",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKSGD": {
     "base": "NOK",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NOKZAR": {
     "base": "NOK",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDCZK": {
     "base": "NZD",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDDKK": {
     "base": "NZD",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDHKD": {
     "base": "NZD",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDHUF": {
     "base": "NZD",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDMXN": {
     "base": "NZD",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDNOK": {
     "base": "NZD",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDPLN": {
     "base": "NZD",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDSEK": {
     "base": "NZD",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDSGD": {
     "base": "NZD",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "NZDZAR": {
     "base": "NZD",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "SEKJPY": {
     "base": "SEK",
     "counter": "JPY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "SGDCHF": {
     "base": "SGD",
     "counter": "CHF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "SGDHKD": {
     "base": "SGD",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "SGDJPY": {
     "base": "SGD",
     "counter": "JPY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "TRYJPY": {
     "base": "TRY",
     "counter": "JPY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDBRL": {
     "base": "USD",
     "counter": "BRL",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDCNH": {
     "base": "USD",
     "counter": "CNH",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDCZK": {
     "base": "USD",
     "counter": "CZK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDDKK": {
     "base": "USD",
     "counter": "DKK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDHKD": {
     "base": "USD",
     "counter": "HKD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDHRK": {
     "base": "USD",
     "counter": "HRK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDHUF": {
     "base": "USD",
     "counter": "HUF",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDILS": {
     "base": "USD",
     "counter": "ILS",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDINR": {
     "base": "USD",
     "counter": "INR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDKRW": {
     "base": "USD",
     "counter": "KRW",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDKWD": {
     "base": "USD",
     "counter": "KWD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDMXN": {
     "base": "USD",
     "counter": "MXN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDNOK": {
     "base": "USD",
     "counter": "NOK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDPLN": {
     "base": "USD",
     "counter": "PLN",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDRON": {
     "base": "USD",
     "counter": "RON",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDRUB": {
     "base": "USD",
     "counter": "RUB",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDSAR": {
     "base": "USD",
     "counter": "SAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDSEK": {
     "base": "USD",
     "counter": "SEK",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDSGD": {
     "base": "USD",
     "counter": "SGD",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDTHB": {
     "base": "USD",
     "counter": "THB",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDTRY": {
     "base": "USD",
     "counter": "TRY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "USDZAR": {
     "base": "USD",
     "counter": "ZAR",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   },
   "ZARJPY": {
     "base": "ZAR",
     "counter": "JPY",
-    "type": {
-      "main": "exotic"
-    }
+    "type": "currency_exotic"
   }
 }

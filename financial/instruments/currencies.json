@@ -27,9 +27,7 @@
       "short": "$",
       "ticker": "AUD"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "BRL": {
     "code": "BRL",
@@ -59,9 +57,7 @@
       "short": "R$",
       "ticker": "BRL"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "CAD": {
     "code": "CAD",
@@ -91,9 +87,7 @@
       "short": "$",
       "ticker": "CAD"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "CHF": {
     "code": "CHF",
@@ -123,9 +117,7 @@
       "short": "CHF",
       "ticker": "CHF"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "CNH": {
     "code": "CNH",
@@ -155,9 +147,7 @@
       "short": "¥",
       "ticker": "CNH"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "CZK": {
     "code": "CZK",
@@ -187,9 +177,7 @@
       "short": "Kč",
       "ticker": "CZK"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "DKK": {
     "code": "DKK",
@@ -219,9 +207,7 @@
       "short": "Kr.",
       "ticker": "DKK"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "EUR": {
     "code": "EUR",
@@ -251,9 +237,7 @@
       "short": "€",
       "ticker": "EUR"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "GBP": {
     "code": "GBP",
@@ -283,9 +267,7 @@
       "short": "£",
       "ticker": "GBP"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "HKD": {
     "code": "HKD",
@@ -315,9 +297,7 @@
       "short": "$",
       "ticker": "HKD"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "HUF": {
     "code": "HUF",
@@ -347,9 +327,7 @@
       "short": "Ft",
       "ticker": "HUF"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "ILS": {
     "code": "ILS",
@@ -379,9 +357,7 @@
       "short": "₪",
       "ticker": "ILS"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "INR": {
     "code": "INR",
@@ -411,9 +387,7 @@
       "short": "₹",
       "ticker": "INR"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "JPY": {
     "code": "JPY",
@@ -443,9 +417,7 @@
       "long": "¥",
       "short": "¥"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "KRW": {
     "code": "KRW",
@@ -475,9 +447,7 @@
       "long": "₩",
       "short": "₩"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "KWD": {
     "code": "KWD",
@@ -507,9 +477,7 @@
       "long": "KD",
       "short": "د.ك"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "MXN": {
     "code": "MXN",
@@ -539,9 +507,7 @@
       "long": "Mex$",
       "short": "$"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "NGN": {
     "code": "NGN",
@@ -571,9 +537,7 @@
       "long": "₦",
       "short": "₦"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "NOK": {
     "code": "NOK",
@@ -603,9 +567,7 @@
       "long": "kr",
       "short": "kr"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "NZD": {
     "code": "NZD",
@@ -635,9 +597,7 @@
       "short": "$",
       "ticker": "NZD"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "PLN": {
     "code": "PLN",
@@ -667,9 +627,7 @@
       "short": "zł",
       "ticker": "PLN"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "RON": {
     "code": "RON",
@@ -699,9 +657,7 @@
       "short": "lei",
       "ticker": "RON"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "RUB": {
     "code": "RUB",
@@ -731,9 +687,7 @@
       "short": "₽",
       "ticker": "RUB"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "SAR": {
     "code": "SAR",
@@ -763,9 +717,7 @@
       "short": "SِAR",
       "ticker": "SAR"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "SEK": {
     "code": "SEK",
@@ -795,9 +747,7 @@
       "short": "kr",
       "ticker": "SEK"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "SGD": {
     "code": "SGD",
@@ -827,9 +777,7 @@
       "short": "$",
       "ticker": "SGD"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "THB": {
     "code": "THB",
@@ -859,9 +807,7 @@
       "short": "฿",
       "ticker": "THB"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "TRY": {
     "code": "TRY",
@@ -891,9 +837,7 @@
       "short": "₺",
       "ticker": "TRY"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "USD": {
     "code": "USD",
@@ -923,9 +867,7 @@
       "short": "$",
       "ticker": "USD"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   },
   "ZAR": {
     "code": "ZAR",
@@ -955,8 +897,6 @@
       "short": "R",
       "ticker": "ZAR"
     },
-    "type": {
-      "main": "currency"
-    }
+    "type": "currency"
   }
 }

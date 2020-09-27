@@ -2,295 +2,211 @@
   "AUDCAD": {
     "base": "AUD",
     "counter": "CAD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "AUDCHF": {
     "base": "AUD",
     "counter": "CHF",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "AUDEUR": {
     "base": "AUD",
     "counter": "EUR",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "AUDGBP": {
     "base": "AUD",
     "counter": "GBP",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "AUDJPY": {
     "base": "AUD",
     "counter": "JPY",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "AUDNZD": {
     "base": "AUD",
     "counter": "NZD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CADAUD": {
     "base": "CAD",
     "counter": "AUD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CADCHF": {
     "base": "CAD",
     "counter": "CHF",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CADEUR": {
     "base": "CAD",
     "counter": "EUR",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CADGBP": {
     "base": "CAD",
     "counter": "GBP",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CADJPY": {
     "base": "CAD",
     "counter": "JPY",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CADNZD": {
     "base": "CAD",
     "counter": "NZD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CHFAUD": {
     "base": "CHF",
     "counter": "AUD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CHFCAD": {
     "base": "CHF",
     "counter": "CAD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CHFEUR": {
     "base": "CHF",
     "counter": "EUR",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CHFGBP": {
     "base": "CHF",
     "counter": "GBP",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CHFJPY": {
     "base": "CHF",
     "counter": "JPY",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "CHFNZD": {
     "base": "CHF",
     "counter": "NZD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "EURAUD": {
     "base": "EUR",
     "counter": "AUD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "EURCAD": {
     "base": "EUR",
     "counter": "CAD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "EURCHF": {
     "base": "EUR",
     "counter": "CHF",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "EURGBP": {
     "base": "EUR",
     "counter": "GBP",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "EURJPY": {
     "base": "EUR",
     "counter": "JPY",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "EURNZD": {
     "base": "EUR",
     "counter": "NZD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "GBPAUD": {
     "base": "GBP",
     "counter": "AUD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "GBPCAD": {
     "base": "GBP",
     "counter": "CAD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "GBPCHF": {
     "base": "GBP",
     "counter": "CHF",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "GBPEUR": {
     "base": "GBP",
     "counter": "EUR",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "GBPJPY": {
     "base": "GBP",
     "counter": "JPY",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "GBPNZD": {
     "base": "GBP",
     "counter": "NZD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "JPYAUD": {
     "base": "JPY",
     "counter": "AUD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "JPYCAD": {
     "base": "JPY",
     "counter": "CAD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "JPYCHF": {
     "base": "JPY",
     "counter": "CHF",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "JPYEUR": {
     "base": "JPY",
     "counter": "EUR",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "JPYGBP": {
     "base": "JPY",
     "counter": "GBP",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "JPYNZD": {
     "base": "JPY",
     "counter": "NZD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "NZDAUD": {
     "base": "NZD",
     "counter": "AUD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "NZDCAD": {
     "base": "NZD",
     "counter": "CAD",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "NZDCHF": {
     "base": "NZD",
     "counter": "CHF",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "NZDEUR": {
     "base": "NZD",
     "counter": "EUR",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "NZDGBP": {
     "base": "NZD",
     "counter": "GBP",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   },
   "NZDJPY": {
     "base": "NZD",
     "counter": "JPY",
-    "type": {
-      "main": "minor"
-    }
+    "type": "pair_currency_minor"
   }
 }
