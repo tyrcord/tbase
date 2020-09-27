@@ -1,42 +1,53 @@
 {
   "lot_units": {
     "barrel": {
+      "key": "barrel",
       "long": "barrel",
       "short": "bbl"
     },
     "forex": {
+      "key": "forex",
       "long": "unit",
       "short": "unit"
     },
     "mmbtu": {
+      "key": "mmbtu",
       "long": "metric million british Thermal unit",
       "short": "MMBtu"
     },
     "ounce": {
+      "key": "ounce",
       "long": "ounce",
       "short": "oz"
     }
   },
   "instrument_types": {
     "curency": {
+      "key": "curency",
       "main": "currency",
       "weight": 100
     },
     "indexes": {
+      "key": "index",
       "main": "index",
       "weight": 75
     },
     "commodity_metal": {
+      "key": "commodity",
+      "subKey": "metal",
       "main": "commodity",
       "sub": "metal",
       "weight": 50
     },
     "commodity_energy": {
+      "key": "commodity",
+      "subKey": "energy",
       "main": "commodity",
       "sub": "energy",
       "weight": 50
     },
     "crypto": {
+      "key": "crypto",
       "main": "crypto",
       "weight": 25
     }

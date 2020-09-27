@@ -1,34 +1,43 @@
 {
   "pair_types": {
     "currency_major": {
+      "key": "major",
       "main": "major",
       "weight": 100
     },
     "currency_minor": {
+      "key": "minor",
       "main": "minor",
-      "weight": 85
+      "weight": 80
     },
     "currency_exotic": {
+      "key": "exotic",
       "main": "exotic",
-      "weight": 70
+      "weight": 60
     },
     "indexes": {
+      "key": "index",
       "main": "index",
-      "weight": 55
+      "weight": 40
     },
     "commodity_metal": {
+      "key": "commodity",
+      "subKey": "metal",
       "main": "commodity",
       "sub": "metal",
-      "weight": 25
+      "weight": 20
     },
     "commodity_energy": {
+      "key": "commodity",
+      "subKey": "energy",
       "main": "commodity",
       "sub": "energy",
-      "weight": 25
+      "weight": 20
     },
     "crypto": {
+      "key": "crypto",
       "main": "crypto",
-      "weight": 10
+      "weight": 0
     }
   }
 }
