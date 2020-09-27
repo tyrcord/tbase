@@ -15,20 +15,20 @@
       "main": "exotic",
       "weight": 60
     },
-    "indexes": {
+    "index": {
       "key": "index",
       "main": "index",
       "weight": 40
     },
     "commodity_metal": {
-      "key": "commodity",
+      "key": "commodities",
       "subKey": "metal",
       "main": "commodity",
       "sub": "metal",
       "weight": 20
     },
     "commodity_energy": {
-      "key": "commodity",
+      "key": "commodities",
       "subKey": "energy",
       "main": "commodity",
       "sub": "energy",

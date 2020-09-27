@@ -22,25 +22,25 @@
     }
   },
   "instrument_types": {
-    "curency": {
-      "key": "curency",
+    "currency": {
+      "key": "currency",
       "main": "currency",
       "weight": 100
     },
-    "indexes": {
+    "index": {
       "key": "index",
       "main": "index",
       "weight": 75
     },
     "commodity_metal": {
-      "key": "commodity",
+      "key": "commodities",
       "subKey": "metal",
       "main": "commodity",
       "sub": "metal",
       "weight": 50
     },
     "commodity_energy": {
-      "key": "commodity",
+      "key": "commodities",
       "subKey": "energy",
       "main": "commodity",
       "sub": "energy",
