@@ -2,121 +2,241 @@
   "BZUSD": {
     "base": "BZ",
     "counter": "USD",
-    "type": "commodity_energy"
+    "type": "commodity_energy",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "CLUSD": {
     "base": "CL",
     "counter": "USD",
-    "type": "commodity_energy"
+    "type": "commodity_energy",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "NGUSD": {
     "base": "NG",
     "counter": "USD",
-    "type": "commodity_energy"
+    "type": "commodity_energy",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAGAUD": {
     "base": "XAG",
     "counter": "AUD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGCAD": {
     "base": "XAG",
     "counter": "CAD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGCHF": {
     "base": "XAG",
     "counter": "CHF",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGEUR": {
     "base": "XAG",
     "counter": "EUR",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGGBP": {
     "base": "XAG",
     "counter": "GBP",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGHKD": {
     "base": "XAG",
     "counter": "HKD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGJPY": {
     "base": "XAG",
     "counter": "JPY",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    }
   },
   "XAGNZD": {
     "base": "XAG",
     "counter": "NZD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGSGD": {
     "base": "XAG",
     "counter": "SGD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAGUSD": {
     "base": "XAG",
     "counter": "USD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
+    }
   },
   "XAUAUD": {
     "base": "XAU",
     "counter": "AUD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUCAD": {
     "base": "XAU",
     "counter": "CAD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUCHF": {
     "base": "XAU",
     "counter": "CHF",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUEUR": {
     "base": "XAU",
     "counter": "EUR",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUGBP": {
     "base": "XAU",
     "counter": "GBP",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUHKD": {
     "base": "XAU",
     "counter": "HKD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUJPY": {
     "base": "XAU",
     "counter": "JPY",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": -1,
+      "precision": -2,
+      "round": 0
+    }
   },
   "XAUNZD": {
     "base": "XAU",
     "counter": "NZD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUSGD": {
     "base": "XAU",
     "counter": "SGD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUUSD": {
     "base": "XAU",
     "counter": "USD",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   },
   "XAUXAG": {
     "base": "XAU",
     "counter": "XAG",
-    "type": "commodity_metal"
+    "type": "commodity_metal",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    }
   }
 }
