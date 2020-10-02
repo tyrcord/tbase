@@ -16,11 +16,6 @@
       "key": "brent_crude_oil",
       "localized": "Brent Crude Oil"
     },
-    "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
-    },
     "symbol": {
       "long": "BZ",
       "short": "BZ",
@@ -44,11 +39,6 @@
     "name": {
       "key": "crude_oil",
       "localized": "Crude Oil"
-    },
-    "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
     },
     "symbol": {
       "long": "CL",
@@ -74,11 +64,6 @@
       "key": "natural_gas",
       "localized": "Natural Gas"
     },
-    "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
-    },
     "symbol": {
       "long": "NG",
       "short": "NG",
@@ -103,11 +88,6 @@
       "key": "silver",
       "localized": "Silver"
     },
-    "pip": {
-      "pipette": 5,
-      "precision": 4,
-      "round": 5
-    },
     "symbol": {
       "long": "XAG",
       "short": "XAG",
@@ -131,11 +111,6 @@
     "name": {
       "key": "gold",
       "localized": "gold"
-    },
-    "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
     },
     "symbol": {
       "long": "XAU",

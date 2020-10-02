@@ -32,6 +32,11 @@
   "USDJPY": {
     "base": "USD",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_major"
   }
 }

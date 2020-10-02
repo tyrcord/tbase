@@ -1,5 +1,34 @@
 {
+  "default_pip": {
+    "pipette": 5,
+    "precision": 4,
+    "round": 5
+  },
   "pair_types": {
+    "commodity_energy": {
+      "key": "commodities",
+      "main": "commodity",
+      "sub": "energy",
+      "subKey": "energy",
+      "weight": 20
+    },
+    "commodity_metal": {
+      "key": "commodities",
+      "main": "commodity",
+      "sub": "metal",
+      "subKey": "metal",
+      "weight": 20
+    },
+    "crypto": {
+      "key": "cryptos",
+      "main": "crypto",
+      "weight": 0
+    },
+    "currency_exotic": {
+      "key": "exotics",
+      "main": "exotic",
+      "weight": 60
+    },
     "currency_major": {
       "key": "majors",
       "main": "major",
@@ -10,34 +39,10 @@
       "main": "minor",
       "weight": 80
     },
-    "currency_exotic": {
-      "key": "exotics",
-      "main": "exotic",
-      "weight": 60
-    },
     "index": {
       "key": "indexes",
       "main": "index",
       "weight": 40
-    },
-    "commodity_metal": {
-      "key": "commodities",
-      "subKey": "metal",
-      "main": "commodity",
-      "sub": "metal",
-      "weight": 20
-    },
-    "commodity_energy": {
-      "key": "commodities",
-      "subKey": "energy",
-      "main": "commodity",
-      "sub": "energy",
-      "weight": 20
-    },
-    "crypto": {
-      "key": "cryptos",
-      "main": "crypto",
-      "weight": 0
     }
   }
 }

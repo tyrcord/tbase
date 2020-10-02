@@ -2,31 +2,61 @@
   "BCHUSD": {
     "base": "BCH",
     "counter": "USD",
-    "type": "crypto"
-  },
-  "XBTUSD": {
-    "base": "XBT",
-    "counter": "USD",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "crypto"
   },
   "DSHUSD": {
     "base": "DSH",
     "counter": "USD",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "crypto"
   },
   "ETHUSD": {
     "base": "ETH",
     "counter": "USD",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "crypto"
   },
   "LTCUSD": {
     "base": "LTC",
     "counter": "USD",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "type": "crypto"
+  },
+  "XBTUSD": {
+    "base": "XBT",
+    "counter": "USD",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "crypto"
   },
   "XRPUSD": {
     "base": "XRP",
     "counter": "USD",
+    "pip": {
+      "pipette": 6,
+      "precision": 5,
+      "round": 6
+    },
     "type": "crypto"
   }
 }

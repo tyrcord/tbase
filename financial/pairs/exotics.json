@@ -17,6 +17,11 @@
   "AUDHUF": {
     "base": "AUD",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "AUDMXN": {
@@ -67,6 +72,11 @@
   "CADHUF": {
     "base": "CAD",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "CADMXN": {
@@ -117,6 +127,11 @@
   "CHFHUF": {
     "base": "CHF",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "CHFMXN": {
@@ -167,6 +182,11 @@
   "DKKHUF": {
     "base": "DKK",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "DKKMXN": {
@@ -217,6 +237,11 @@
   "EURHUF": {
     "base": "EUR",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "EURMXN": {
@@ -282,6 +307,11 @@
   "GBPHUF": {
     "base": "GBP",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "GBPMXN": {
@@ -327,6 +357,11 @@
   "HKDJPY": {
     "base": "HKD",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "JPYCZK": {
@@ -347,6 +382,11 @@
   "JPYHUF": {
     "base": "JPY",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "JPYMXN": {
@@ -382,6 +422,11 @@
   "MXNJPY": {
     "base": "MXN",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "NOKCZK": {
@@ -397,11 +442,21 @@
   "NOKHUF": {
     "base": "NOK",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "NOKJPY": {
     "base": "NOK",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "NOKMXN": {
@@ -447,6 +502,11 @@
   "NZDHUF": {
     "base": "NZD",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "NZDMXN": {
@@ -482,6 +542,11 @@
   "SEKJPY": {
     "base": "SEK",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "SGDCHF": {
@@ -497,16 +562,31 @@
   "SGDJPY": {
     "base": "SGD",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "TRYJPY": {
     "base": "TRY",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "USDBRL": {
     "base": "USD",
     "counter": "BRL",
+    "pip": {
+      "pipette": 4,
+      "precision": 4,
+      "round": 4
+    },
     "type": "currency_exotic"
   },
   "USDCNH": {
@@ -537,6 +617,11 @@
   "USDHUF": {
     "base": "USD",
     "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "USDILS": {
@@ -547,11 +632,21 @@
   "USDINR": {
     "base": "USD",
     "counter": "INR",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "USDKRW": {
     "base": "USD",
     "counter": "KRW",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "USDKWD": {
@@ -562,6 +657,16 @@
   "USDMXN": {
     "base": "USD",
     "counter": "MXN",
+    "type": "currency_exotic"
+  },
+  "USDNGN": {
+    "base": "USD",
+    "counter": "HUF",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "USDNOK": {
@@ -602,6 +707,11 @@
   "USDTHB": {
     "base": "USD",
     "counter": "THB",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   },
   "USDTRY": {
@@ -617,6 +727,11 @@
   "ZARJPY": {
     "base": "ZAR",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_exotic"
   }
 }

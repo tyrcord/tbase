@@ -1,4 +1,35 @@
 {
+  "instrument_types": {
+    "commodity_energy": {
+      "key": "commodities",
+      "main": "commodity",
+      "sub": "energy",
+      "subKey": "energy",
+      "weight": 50
+    },
+    "commodity_metal": {
+      "key": "commodities",
+      "main": "commodity",
+      "sub": "metal",
+      "subKey": "metal",
+      "weight": 50
+    },
+    "crypto": {
+      "key": "cryptos",
+      "main": "crypto",
+      "weight": 25
+    },
+    "currency": {
+      "key": "currencies",
+      "main": "currency",
+      "weight": 100
+    },
+    "index": {
+      "key": "indexes",
+      "main": "index",
+      "weight": 75
+    }
+  },
   "lot_units": {
     "barrel": {
       "key": "barrel",
@@ -19,37 +50,6 @@
       "key": "ounce",
       "long": "ounce",
       "short": "oz"
-    }
-  },
-  "instrument_types": {
-    "currency": {
-      "key": "currencies",
-      "main": "currency",
-      "weight": 100
-    },
-    "index": {
-      "key": "indexes",
-      "main": "index",
-      "weight": 75
-    },
-    "commodity_metal": {
-      "key": "commodities",
-      "subKey": "metal",
-      "main": "commodity",
-      "sub": "metal",
-      "weight": 50
-    },
-    "commodity_energy": {
-      "key": "commodities",
-      "subKey": "energy",
-      "main": "commodity",
-      "sub": "energy",
-      "weight": 50
-    },
-    "crypto": {
-      "key": "cryptos",
-      "main": "crypto",
-      "weight": 25
     }
   }
 }

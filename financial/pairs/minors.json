@@ -22,6 +22,11 @@
   "AUDJPY": {
     "base": "AUD",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_minor"
   },
   "AUDNZD": {
@@ -52,6 +57,11 @@
   "CADJPY": {
     "base": "CAD",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_minor"
   },
   "CADNZD": {
@@ -82,6 +92,11 @@
   "CHFJPY": {
     "base": "CHF",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_minor"
   },
   "CHFNZD": {
@@ -112,6 +127,11 @@
   "EURJPY": {
     "base": "EUR",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_minor"
   },
   "EURNZD": {
@@ -142,6 +162,11 @@
   "GBPJPY": {
     "base": "GBP",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_minor"
   },
   "GBPNZD": {
@@ -207,6 +232,11 @@
   "NZDJPY": {
     "base": "NZD",
     "counter": "JPY",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
     "type": "currency_minor"
   }
 }
