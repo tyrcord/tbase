@@ -16,8 +16,8 @@
     },
     "type": "crypto"
   },
-  "BTC": {
-    "code": "BTC",
+  "XBT": {
+    "code": "XBT",
     "format": {
       "round": 3
     },
