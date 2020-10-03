@@ -348,7 +348,7 @@
       "localized": "Japanese yen"
     },
     "symbol": {
-      "iso": "JPY",
+      "ticker": "JPY",
       "long": "¥",
       "short": "¥"
     },
@@ -373,7 +373,7 @@
       "localized": "South Korean won"
     },
     "symbol": {
-      "iso": "KRW",
+      "ticker": "KRW",
       "long": "₩",
       "short": "₩"
     },
@@ -398,7 +398,7 @@
       "localized": "Kuwaiti dinar"
     },
     "symbol": {
-      "iso": "KWD",
+      "ticker": "KWD",
       "long": "KD",
       "short": "د.ك"
     },
@@ -423,7 +423,7 @@
       "localized": "Mexican peso"
     },
     "symbol": {
-      "iso": "MXN",
+      "ticker": "MXN",
       "long": "Mex$",
       "short": "$"
     },
@@ -448,7 +448,7 @@
       "localized": "Nigerian naira"
     },
     "symbol": {
-      "iso": "NGN",
+      "ticker": "NGN",
       "long": "₦",
       "short": "₦"
     },
@@ -473,7 +473,7 @@
       "localized": "Norwegian krone"
     },
     "symbol": {
-      "iso": "NOK",
+      "ticker": "NOK",
       "long": "kr",
       "short": "kr"
     },
