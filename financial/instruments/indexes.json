@@ -1,6 +1,6 @@
 {
-  "^GSPC": {
-    "code": "^GSPC",
+  "GSPC": {
+    "code": "GSPC",
     "format": {
       "round": 1
     },
@@ -10,14 +10,14 @@
       "localized": "S&P 500"
     },
     "symbol": {
-      "long": "^GSPC",
-      "short": "^GSPC",
-      "ticker": "^GSPC"
+      "long": "GSPC",
+      "short": "GSPC",
+      "ticker": "GSPC"
     },
     "type": "index"
   },
-  "^GDAXI": {
-    "code": "^GDAXI",
+  "GDAXI": {
+    "code": "GDAXI",
     "format": {
       "round": 1
     },
@@ -27,14 +27,14 @@
       "localized": "DAX 30"
     },
     "symbol": {
-      "long": "^GDAXI",
-      "short": "^GDAXI",
-      "ticker": "^GDAXI"
+      "long": "GDAXI",
+      "short": "GDAXI",
+      "ticker": "GDAXI"
     },
     "type": "index"
   },
-  "^NDX": {
-    "code": "^NDX",
+  "NDX": {
+    "code": "NDX",
     "format": {
       "round": 1
     },
@@ -44,14 +44,14 @@
       "localized": "NASDAQ 100"
     },
     "symbol": {
-      "long": "^NDX",
-      "short": "^NDX",
-      "ticker": "^NDX"
+      "long": "NDX",
+      "short": "NDX",
+      "ticker": "NDX"
     },
     "type": "index"
   },
-  "^DJI": {
-    "code": "^DJI",
+  "DJI": {
+    "code": "DJI",
     "format": {
       "round": 1
     },
@@ -61,14 +61,14 @@
       "localized": "Dow Jones Industrial Average"
     },
     "symbol": {
-      "long": "^DJI",
-      "short": "^DJI",
-      "ticker": "^DJI"
+      "long": "DJI",
+      "short": "DJI",
+      "ticker": "DJI"
     },
     "type": "index"
   },
-  "^FCHI": {
-    "code": "^FCHI",
+  "FCHI": {
+    "code": "FCHI",
     "format": {
       "round": 1
     },
@@ -78,14 +78,14 @@
       "localized": "CAC 40"
     },
     "symbol": {
-      "long": "^FCHI",
-      "short": "^FCHI",
-      "ticker": "^FCHI"
+      "long": "FCHI",
+      "short": "FCHI",
+      "ticker": "FCHI"
     },
     "type": "index"
   },
-  "^FTSE": {
-    "code": "^FTSE",
+  "FTSE": {
+    "code": "FTSE",
     "format": {
       "round": 1
     },
@@ -95,14 +95,14 @@
       "localized": "UK 100"
     },
     "symbol": {
-      "long": "^FTSE",
-      "short": "^FTSE",
-      "ticker": "^FTSE"
+      "long": "FTSE",
+      "short": "FTSE",
+      "ticker": "FTSE"
     },
     "type": "index"
   },
-  "^STOXX50E": {
-    "code": "^STOXX50E",
+  "STOXX50E": {
+    "code": "STOXX50E",
     "format": {
       "round": 1
     },
@@ -112,14 +112,14 @@
       "localized": "EURO STOXX 50"
     },
     "symbol": {
-      "long": "^STOXX50E",
-      "short": "^STOXX50E",
-      "ticker": "^STOXX50E"
+      "long": "STOXX50E",
+      "short": "STOXX50E",
+      "ticker": "STOXX50E"
     },
     "type": "index"
   },
-  "^N225": {
-    "code": "^N225",
+  "N225": {
+    "code": "N225",
     "format": {
       "round": 1
     },
@@ -129,14 +129,14 @@
       "localized": "Nikkei 225"
     },
     "symbol": {
-      "long": "^N225",
-      "short": "^N225",
-      "ticker": "^N225"
+      "long": "N225",
+      "short": "N225",
+      "ticker": "N225"
     },
     "type": "index"
   },
-  "^HSI": {
-    "code": "^HSI",
+  "HSI": {
+    "code": "HSI",
     "format": {
       "round": 1
     },
@@ -146,14 +146,14 @@
       "localized": "HANG SENG INDEX"
     },
     "symbol": {
-      "long": "^HSI",
-      "short": "^HSI",
-      "ticker": "^HSI"
+      "long": "HSI",
+      "short": "HSI",
+      "ticker": "HSI"
     },
     "type": "index"
   },
-  "^IBEX": {
-    "code": "^IBEX",
+  "IBEX": {
+    "code": "IBEX",
     "format": {
       "round": 1
     },
@@ -163,14 +163,14 @@
       "localized": "IBEX 35"
     },
     "symbol": {
-      "long": "^IBEX",
-      "short": "^IBEX",
-      "ticker": "^IBEX"
+      "long": "IBEX",
+      "short": "IBEX",
+      "ticker": "IBEX"
     },
     "type": "index"
   },
-  "^AXJO": {
-    "code": "^AXJO",
+  "AXJO": {
+    "code": "AXJO",
     "format": {
       "round": 1
     },
@@ -180,14 +180,14 @@
       "localized": "S&P/ASX 200"
     },
     "symbol": {
-      "long": "^AXJO",
-      "short": "^AXJO",
-      "ticker": "^AXJO"
+      "long": "AXJO",
+      "short": "AXJO",
+      "ticker": "AXJO"
     },
     "type": "index"
   },
-  "^GSPTSE": {
-    "code": "^GSPTSE",
+  "GSPTSE": {
+    "code": "GSPTSE",
     "format": {
       "round": 1
     },
@@ -197,9 +197,9 @@
       "localized": "S&P/TSX Composite index"
     },
     "symbol": {
-      "long": "^GSPTSE",
-      "short": "^GSPTSE",
-      "ticker": "^GSPTSE"
+      "long": "GSPTSE",
+      "short": "GSPTSE",
+      "ticker": "GSPTSE"
     },
     "type": "index"
   }
