@@ -1,0 +1,122 @@
+{
+  "^GSPC": {
+    "base": "^GSPC",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^GDAXI": {
+    "base": "^GDAXI",
+    "counter": "EUR",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^NDX": {
+    "base": "^NDX",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^DJI": {
+    "base": "^DJI",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^FCHI": {
+    "base": "^FCHI",
+    "counter": "EUR",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^FTSE": {
+    "base": "^FTSE",
+    "counter": "GBP",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^STOXX50E": {
+    "base": "^STOXX50E",
+    "counter": "EUR",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^N225": {
+    "base": "^N225",
+    "counter": "JPY",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^HSI": {
+    "base": "^HSI",
+    "counter": "HKD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^IBEX": {
+    "base": "^IBEX",
+    "counter": "EUR",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^AXJO": {
+    "base": "^AXJO",
+    "counter": "AUD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "^GSPTSE": {
+    "base": "^GSPTSE",
+    "counter": "CAD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  }
+}
