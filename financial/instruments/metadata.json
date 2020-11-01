@@ -25,7 +25,7 @@
       "weight": 100
     },
     "index": {
-      "key": "indexes",
+      "key": "indices",
       "main": "index",
       "weight": 75
     }

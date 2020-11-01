@@ -40,7 +40,7 @@
       "weight": 80
     },
     "index": {
-      "key": "indexes",
+      "key": "indices",
       "main": "index",
       "weight": 40
     }
