@@ -1,5 +1,5 @@
 {
-  "GSPC": {
+  "GSPCUSD": {
     "base": "GSPC",
     "counter": "USD",
     "pip": {
@@ -9,7 +9,7 @@
     },
     "type": "index"
   },
-  "GDAXI": {
+  "GDAXIEUR": {
     "base": "GDAXI",
     "counter": "EUR",
     "pip": {
@@ -19,7 +19,7 @@
     },
     "type": "index"
   },
-  "NDX": {
+  "NDXUSD": {
     "base": "NDX",
     "counter": "USD",
     "pip": {
@@ -29,7 +29,7 @@
     },
     "type": "index"
   },
-  "DJI": {
+  "DJIUSD": {
     "base": "DJI",
     "counter": "USD",
     "pip": {
@@ -39,7 +39,7 @@
     },
     "type": "index"
   },
-  "FCHI": {
+  "FCHIEUR": {
     "base": "FCHI",
     "counter": "EUR",
     "pip": {
@@ -49,7 +49,7 @@
     },
     "type": "index"
   },
-  "FTSE": {
+  "FTSEGBP": {
     "base": "FTSE",
     "counter": "GBP",
     "pip": {
@@ -59,7 +59,7 @@
     },
     "type": "index"
   },
-  "STOXX50E": {
+  "STOXX50EEUR": {
     "base": "STOXX50E",
     "counter": "EUR",
     "pip": {
@@ -69,7 +69,7 @@
     },
     "type": "index"
   },
-  "N225": {
+  "N225JPY": {
     "base": "N225",
     "counter": "JPY",
     "pip": {
@@ -79,7 +79,7 @@
     },
     "type": "index"
   },
-  "HSI": {
+  "HSIHKD": {
     "base": "HSI",
     "counter": "HKD",
     "pip": {
@@ -89,7 +89,7 @@
     },
     "type": "index"
   },
-  "IBEX": {
+  "IBEXEUR": {
     "base": "IBEX",
     "counter": "EUR",
     "pip": {
@@ -99,7 +99,7 @@
     },
     "type": "index"
   },
-  "AXJO": {
+  "AXJOAUD": {
     "base": "AXJO",
     "counter": "AUD",
     "pip": {
@@ -109,7 +109,7 @@
     },
     "type": "index"
   },
-  "GSPTSE": {
+  "GSPTSECAD": {
     "base": "GSPTSE",
     "counter": "CAD",
     "pip": {
