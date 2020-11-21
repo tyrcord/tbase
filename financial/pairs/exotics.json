@@ -609,6 +609,11 @@
     "counter": "HKD",
     "type": "currency_exotic"
   },
+  "USDHRK": {
+    "base": "USD",
+    "counter": "HRK",
+    "type": "currency_exotic"
+  },
   "USDHUF": {
     "base": "USD",
     "counter": "HUF",
@@ -616,6 +621,16 @@
       "pipette": 3,
       "precision": 2,
       "round": 3
+    },
+    "type": "currency_exotic"
+  },
+  "USDIDR": {
+    "base": "USD",
+    "counter": "IDR",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
     },
     "type": "currency_exotic"
   },
@@ -652,6 +667,11 @@
   "USDMXN": {
     "base": "USD",
     "counter": "MXN",
+    "type": "currency_exotic"
+  },
+  "USDMYR": {
+    "base": "USD",
+    "counter": "MYR",
     "type": "currency_exotic"
   },
   "USDNGN": {
@@ -726,26 +746,6 @@
       "pipette": 3,
       "precision": 2,
       "round": 3
-    },
-    "type": "currency_exotic"
-  },
-  "USDHRK": {
-    "base": "USD",
-    "counter": "HRK",
-    "type": "currency_exotic"
-  },
-  "USDMYR": {
-    "base": "USD",
-    "counter": "MYR",
-    "type": "currency_exotic"
-  },
-  "USDIDR": {
-    "base": "USD",
-    "counter": "IDR",
-    "pip": {
-      "pipette": 1,
-      "precision": 0,
-      "round": 1
     },
     "type": "currency_exotic"
   }

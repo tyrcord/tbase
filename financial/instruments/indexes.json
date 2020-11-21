@@ -186,20 +186,20 @@
     },
     "type": "index"
   },
-  "STOXX50E": {
-    "code": "STOXX50E",
+  "NSEI": {
+    "code": "NSEI",
     "format": {
       "round": 1
     },
-    "icon": "euro",
+    "icon": "india",
     "name": {
-      "key": "eu_50",
-      "localized": "EURO STOXX 50"
+      "key": "nifty_50",
+      "localized": "NIFTY 50"
     },
     "symbol": {
-      "long": "STOXX50E",
-      "short": "STOXX50E",
-      "ticker": "STOXX50E"
+      "long": "NSEI",
+      "short": "NSEI",
+      "ticker": "NSEI"
     },
     "type": "index"
   },
@@ -220,20 +220,20 @@
     },
     "type": "index"
   },
-  "NSEI": {
-    "code": "NSEI",
+  "STOXX50E": {
+    "code": "STOXX50E",
     "format": {
       "round": 1
     },
-    "icon": "india",
+    "icon": "euro",
     "name": {
-      "key": "nifty_50",
-      "localized": "NIFTY 50"
+      "key": "eu_50",
+      "localized": "EURO STOXX 50"
     },
     "symbol": {
-      "long": "NSEI",
-      "short": "NSEI",
-      "ticker": "NSEI"
+      "long": "STOXX50E",
+      "short": "STOXX50E",
+      "ticker": "STOXX50E"
     },
     "type": "index"
   }

@@ -9,6 +9,16 @@
     },
     "type": "crypto"
   },
+  "BTCUSD": {
+    "base": "BTC",
+    "counter": "USD",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "type": "crypto"
+  },
   "DSHUSD": {
     "base": "DSH",
     "counter": "USD",
@@ -31,16 +41,6 @@
   },
   "LTCUSD": {
     "base": "LTC",
-    "counter": "USD",
-    "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
-    },
-    "type": "crypto"
-  },
-  "BTCUSD": {
-    "base": "BTC",
     "counter": "USD",
     "pip": {
       "pipette": 3,

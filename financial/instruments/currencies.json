@@ -254,6 +254,31 @@
     },
     "type": "currency"
   },
+  "HRK": {
+    "code": "HRK",
+    "format": {
+      "round": 3
+    },
+    "icon": "croatia",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "normalized": true,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "croatian_kuna",
+      "localized": "Croatian kuna"
+    },
+    "symbol": {
+      "long": "HRK",
+      "short": "HRK",
+      "ticker": "HRK"
+    },
+    "type": "currency"
+  },
   "HUF": {
     "code": "HUF",
     "format": {
@@ -276,6 +301,31 @@
       "long": "Ft",
       "short": "Ft",
       "ticker": "HUF"
+    },
+    "type": "currency"
+  },
+  "IDR": {
+    "code": "IDR",
+    "format": {
+      "round": 3
+    },
+    "icon": "indonesia",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "normalized": true,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "indonesian_rupiah",
+      "localized": "Indonesian rupiah"
+    },
+    "symbol": {
+      "long": "IDR",
+      "short": "IDR",
+      "ticker": "IDR"
     },
     "type": "currency"
   },
@@ -348,9 +398,9 @@
       "localized": "Japanese yen"
     },
     "symbol": {
-      "ticker": "JPY",
       "long": "¥",
-      "short": "¥"
+      "short": "¥",
+      "ticker": "JPY"
     },
     "type": "currency"
   },
@@ -373,9 +423,9 @@
       "localized": "South Korean won"
     },
     "symbol": {
-      "ticker": "KRW",
       "long": "₩",
-      "short": "₩"
+      "short": "₩",
+      "ticker": "KRW"
     },
     "type": "currency"
   },
@@ -398,9 +448,9 @@
       "localized": "Kuwaiti dinar"
     },
     "symbol": {
-      "ticker": "KWD",
       "long": "KD",
-      "short": "د.ك"
+      "short": "د.ك",
+      "ticker": "KWD"
     },
     "type": "currency"
   },
@@ -423,9 +473,34 @@
       "localized": "Mexican peso"
     },
     "symbol": {
-      "ticker": "MXN",
       "long": "Mex$",
-      "short": "$"
+      "short": "$",
+      "ticker": "MXN"
+    },
+    "type": "currency"
+  },
+  "MYR": {
+    "code": "MYR",
+    "format": {
+      "round": 3
+    },
+    "icon": "malaysia",
+    "lots": {
+      "micro": 1000,
+      "mini": 10000,
+      "nano": 100,
+      "normalized": true,
+      "standard": 100000,
+      "unit": "forex"
+    },
+    "name": {
+      "key": "malaysian_ringgit",
+      "localized": "Malaysian ringgit"
+    },
+    "symbol": {
+      "long": "MYR",
+      "short": "MYR",
+      "ticker": "MYR"
     },
     "type": "currency"
   },
@@ -448,9 +523,9 @@
       "localized": "Nigerian naira"
     },
     "symbol": {
-      "ticker": "NGN",
       "long": "₦",
-      "short": "₦"
+      "short": "₦",
+      "ticker": "NGN"
     },
     "type": "currency"
   },
@@ -473,9 +548,9 @@
       "localized": "Norwegian krone"
     },
     "symbol": {
-      "ticker": "NOK",
       "long": "kr",
-      "short": "kr"
+      "short": "kr",
+      "ticker": "NOK"
     },
     "type": "currency"
   },
@@ -751,81 +826,6 @@
       "long": "R",
       "short": "R",
       "ticker": "ZAR"
-    },
-    "type": "currency"
-  },
-  "IDR": {
-    "code": "IDR",
-    "format": {
-      "round": 3
-    },
-    "icon": "indonesia",
-    "lots": {
-      "micro": 1000,
-      "mini": 10000,
-      "nano": 100,
-      "normalized": true,
-      "standard": 100000,
-      "unit": "forex"
-    },
-    "name": {
-      "key": "indonesian_rupiah",
-      "localized": "Indonesian rupiah"
-    },
-    "symbol": {
-      "long": "IDR",
-      "short": "IDR",
-      "ticker": "IDR"
-    },
-    "type": "currency"
-  },
-  "HRK": {
-    "code": "HRK",
-    "format": {
-      "round": 3
-    },
-    "icon": "croatia",
-    "lots": {
-      "micro": 1000,
-      "mini": 10000,
-      "nano": 100,
-      "normalized": true,
-      "standard": 100000,
-      "unit": "forex"
-    },
-    "name": {
-      "key": "croatian_kuna",
-      "localized": "Croatian kuna"
-    },
-    "symbol": {
-      "long": "HRK",
-      "short": "HRK",
-      "ticker": "HRK"
-    },
-    "type": "currency"
-  },
-  "MYR": {
-    "code": "MYR",
-    "format": {
-      "round": 3
-    },
-    "icon": "malaysia",
-    "lots": {
-      "micro": 1000,
-      "mini": 10000,
-      "nano": 100,
-      "normalized": true,
-      "standard": 100000,
-      "unit": "forex"
-    },
-    "name": {
-      "key": "malaysian_ringgit",
-      "localized": "Malaysian ringgit"
-    },
-    "symbol": {
-      "long": "MYR",
-      "short": "MYR",
-      "ticker": "MYR"
     },
     "type": "currency"
   }
