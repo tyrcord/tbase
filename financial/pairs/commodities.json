@@ -193,5 +193,15 @@
       "round": 3
     },
     "type": "commodity_metal"
+  },
+  "XPTUSD": {
+    "base": "XPT",
+    "counter": "USD",
+    "pip": {
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
+    },
+    "type": "commodity_metal"
   }
 }

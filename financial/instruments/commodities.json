@@ -118,5 +118,29 @@
       "ticker": "XAU"
     },
     "type": "commodity_metal"
+  },
+  "XPT": {
+    "code": "XPT",
+    "format": {
+      "round": 3
+    },
+    "icon": "platinum",
+    "lots": {
+      "micro": 1,
+      "mini": 10,
+      "normalized": true,
+      "standard": 100,
+      "unit": "ounce"
+    },
+    "name": {
+      "key": "platinum",
+      "localized": "platinum"
+    },
+    "symbol": {
+      "long": "XPT",
+      "short": "XPT",
+      "ticker": "XPT"
+    },
+    "type": "commodity_metal"
   }
 }
