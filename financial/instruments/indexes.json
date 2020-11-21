@@ -1,52 +1,18 @@
 {
-  "GSPC": {
-    "code": "GSPC",
+  "AXJO": {
+    "code": "AXJO",
     "format": {
       "round": 1
     },
-    "icon": "usa",
+    "icon": "australia",
     "name": {
-      "key": "s&p_500",
-      "localized": "S&P 500"
+      "key": "axjo",
+      "localized": "S&P/ASX 200"
     },
     "symbol": {
-      "long": "GSPC",
-      "short": "GSPC",
-      "ticker": "GSPC"
-    },
-    "type": "index"
-  },
-  "GDAXI": {
-    "code": "GDAXI",
-    "format": {
-      "round": 1
-    },
-    "icon": "germany",
-    "name": {
-      "key": "dax_30",
-      "localized": "DAX 30"
-    },
-    "symbol": {
-      "long": "GDAXI",
-      "short": "GDAXI",
-      "ticker": "GDAXI"
-    },
-    "type": "index"
-  },
-  "NDX": {
-    "code": "NDX",
-    "format": {
-      "round": 1
-    },
-    "icon": "usa",
-    "name": {
-      "key": "nasdaq_100",
-      "localized": "NASDAQ 100"
-    },
-    "symbol": {
-      "long": "NDX",
-      "short": "NDX",
-      "ticker": "NDX"
+      "long": "AXJO",
+      "short": "AXJO",
+      "ticker": "AXJO"
     },
     "type": "index"
   },
@@ -101,37 +67,54 @@
     },
     "type": "index"
   },
-  "STOXX50E": {
-    "code": "STOXX50E",
+  "GDAXI": {
+    "code": "GDAXI",
     "format": {
       "round": 1
     },
-    "icon": "euro",
+    "icon": "germany",
     "name": {
-      "key": "eu_50",
-      "localized": "EURO STOXX 50"
+      "key": "dax_30",
+      "localized": "DAX 30"
     },
     "symbol": {
-      "long": "STOXX50E",
-      "short": "STOXX50E",
-      "ticker": "STOXX50E"
+      "long": "GDAXI",
+      "short": "GDAXI",
+      "ticker": "GDAXI"
     },
     "type": "index"
   },
-  "N225": {
-    "code": "N225",
+  "GSPC": {
+    "code": "GSPC",
     "format": {
       "round": 1
     },
-    "icon": "japan",
+    "icon": "usa",
     "name": {
-      "key": "n_225",
-      "localized": "Nikkei 225"
+      "key": "s&p_500",
+      "localized": "S&P 500"
     },
     "symbol": {
-      "long": "N225",
-      "short": "N225",
-      "ticker": "N225"
+      "long": "GSPC",
+      "short": "GSPC",
+      "ticker": "GSPC"
+    },
+    "type": "index"
+  },
+  "GSPTSE": {
+    "code": "GSPTSE",
+    "format": {
+      "round": 1
+    },
+    "icon": "canada",
+    "name": {
+      "key": "tsx",
+      "localized": "S&P/TSX Composite index"
+    },
+    "symbol": {
+      "long": "GSPTSE",
+      "short": "GSPTSE",
+      "ticker": "GSPTSE"
     },
     "type": "index"
   },
@@ -169,37 +152,88 @@
     },
     "type": "index"
   },
-  "AXJO": {
-    "code": "AXJO",
+  "N225": {
+    "code": "N225",
     "format": {
       "round": 1
     },
-    "icon": "australia",
+    "icon": "japan",
     "name": {
-      "key": "axjo",
-      "localized": "S&P/ASX 200"
+      "key": "n_225",
+      "localized": "Nikkei 225"
     },
     "symbol": {
-      "long": "AXJO",
-      "short": "AXJO",
-      "ticker": "AXJO"
+      "long": "N225",
+      "short": "N225",
+      "ticker": "N225"
     },
     "type": "index"
   },
-  "GSPTSE": {
-    "code": "GSPTSE",
+  "NDX": {
+    "code": "NDX",
     "format": {
       "round": 1
     },
-    "icon": "canada",
+    "icon": "usa",
     "name": {
-      "key": "tsx",
-      "localized": "S&P/TSX Composite index"
+      "key": "nasdaq_100",
+      "localized": "NASDAQ 100"
     },
     "symbol": {
-      "long": "GSPTSE",
-      "short": "GSPTSE",
-      "ticker": "GSPTSE"
+      "long": "NDX",
+      "short": "NDX",
+      "ticker": "NDX"
+    },
+    "type": "index"
+  },
+  "STOXX50E": {
+    "code": "STOXX50E",
+    "format": {
+      "round": 1
+    },
+    "icon": "euro",
+    "name": {
+      "key": "eu_50",
+      "localized": "EURO STOXX 50"
+    },
+    "symbol": {
+      "long": "STOXX50E",
+      "short": "STOXX50E",
+      "ticker": "STOXX50E"
+    },
+    "type": "index"
+  },
+  "RUT": {
+    "code": "RUT",
+    "format": {
+      "round": 1
+    },
+    "icon": "usa",
+    "name": {
+      "key": "russel_2000",
+      "localized": "Russell 2000"
+    },
+    "symbol": {
+      "long": "RUT",
+      "short": "RUT",
+      "ticker": "RUT"
+    },
+    "type": "index"
+  },
+  "NSEI": {
+    "code": "NSEI",
+    "format": {
+      "round": 1
+    },
+    "icon": "india",
+    "name": {
+      "key": "nifty_50",
+      "localized": "NIFTY 50"
+    },
+    "symbol": {
+      "long": "NSEI",
+      "short": "NSEI",
+      "ticker": "NSEI"
     },
     "type": "index"
   }

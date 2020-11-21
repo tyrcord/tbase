@@ -1,27 +1,7 @@
 {
-  "GSPCUSD": {
-    "base": "GSPC",
-    "counter": "USD",
-    "pip": {
-      "pipette": 1,
-      "precision": 0,
-      "round": 1
-    },
-    "type": "index"
-  },
-  "GDAXIEUR": {
-    "base": "GDAXI",
-    "counter": "EUR",
-    "pip": {
-      "pipette": 1,
-      "precision": 0,
-      "round": 1
-    },
-    "type": "index"
-  },
-  "NDXUSD": {
-    "base": "NDX",
-    "counter": "USD",
+  "AXJOAUD": {
+    "base": "AXJO",
+    "counter": "AUD",
     "pip": {
       "pipette": 1,
       "precision": 0,
@@ -59,8 +39,8 @@
     },
     "type": "index"
   },
-  "STOXX50EEUR": {
-    "base": "STOXX50E",
+  "GDAXIEUR": {
+    "base": "GDAXI",
     "counter": "EUR",
     "pip": {
       "pipette": 1,
@@ -69,9 +49,19 @@
     },
     "type": "index"
   },
-  "N225JPY": {
-    "base": "N225",
-    "counter": "JPY",
+  "GSPCUSD": {
+    "base": "GSPC",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "GSPTSECAD": {
+    "base": "GSPTSE",
+    "counter": "CAD",
     "pip": {
       "pipette": 1,
       "precision": 0,
@@ -99,9 +89,9 @@
     },
     "type": "index"
   },
-  "AXJOAUD": {
-    "base": "AXJO",
-    "counter": "AUD",
+  "N225JPY": {
+    "base": "N225",
+    "counter": "JPY",
     "pip": {
       "pipette": 1,
       "precision": 0,
@@ -109,9 +99,39 @@
     },
     "type": "index"
   },
-  "GSPTSECAD": {
-    "base": "GSPTSE",
-    "counter": "CAD",
+  "NDXUSD": {
+    "base": "NDX",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "NSEIINR": {
+    "base": "NSEI",
+    "counter": "INR",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "RUTUSD": {
+    "base": "RUT",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "STOXX50EEUR": {
+    "base": "STOXX50E",
+    "counter": "EUR",
     "pip": {
       "pipette": 1,
       "precision": 0,
