@@ -5,13 +5,6 @@
       "round": 3
     },
     "icon": "oil",
-    "lots": {
-      "micro": 10,
-      "mini": 100,
-      "normalized": false,
-      "standard": 1000,
-      "unit": "barrel"
-    },
     "name": {
       "key": "brent_crude_oil",
       "localized": "Brent Crude Oil"
@@ -29,13 +22,6 @@
       "round": 3
     },
     "icon": "oil",
-    "lots": {
-      "micro": 10,
-      "mini": 100,
-      "normalized": false,
-      "standard": 1000,
-      "unit": "barrel"
-    },
     "name": {
       "key": "crude_oil",
       "localized": "Crude Oil"
@@ -53,13 +39,6 @@
       "round": 3
     },
     "icon": "gas",
-    "lots": {
-      "micro": 1250,
-      "mini": 2500,
-      "normalized": true,
-      "standard": 10000,
-      "unit": "mmbtu"
-    },
     "name": {
       "key": "natural_gas",
       "localized": "Natural Gas"
@@ -77,13 +56,6 @@
       "round": 3
     },
     "icon": "silver",
-    "lots": {
-      "micro": 50,
-      "mini": 500,
-      "normalized": true,
-      "standard": 5000,
-      "unit": "ounce"
-    },
     "name": {
       "key": "silver",
       "localized": "Silver"
@@ -101,13 +73,6 @@
       "round": 3
     },
     "icon": "gold",
-    "lots": {
-      "micro": 1,
-      "mini": 10,
-      "normalized": true,
-      "standard": 100,
-      "unit": "ounce"
-    },
     "name": {
       "key": "gold",
       "localized": "gold"
@@ -125,13 +90,6 @@
       "round": 3
     },
     "icon": "platinum",
-    "lots": {
-      "micro": 1,
-      "mini": 10,
-      "normalized": true,
-      "standard": 100,
-      "unit": "ounce"
-    },
     "name": {
       "key": "platinum",
       "localized": "platinum"

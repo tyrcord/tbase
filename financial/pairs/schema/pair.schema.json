@@ -22,6 +22,87 @@
       "examples": ["CAD"],
       "pattern": "^(.*)$"
     },
+    "pip": {
+      "$id": "#/properties/pip",
+      "type": "object",
+      "title": "Pip",
+      "required": ["precision", "pipette", "round"],
+      "properties": {
+        "precision": {
+          "$id": "#/properties/pip/properties/precision",
+          "type": "integer",
+          "title": "Precision",
+          "default": 0,
+          "examples": [4],
+          "minimum": 0.0
+        },
+        "pipette": {
+          "$id": "#/properties/pip/properties/pipette",
+          "type": "integer",
+          "title": "Pipette",
+          "default": 0,
+          "examples": [5],
+          "minimum": 0.0
+        },
+        "round": {
+          "$id": "#/properties/pip/properties/round",
+          "type": "integer",
+          "title": "Round",
+          "default": 0,
+          "examples": [5],
+          "minimum": 0.0
+        }
+      }
+    },
+    "lots": {
+      "$id": "#/properties/lots",
+      "type": "object",
+      "title": "Lots",
+      "default": null,
+      "properties": {
+        "micro": {
+          "$id": "#/properties/lots/properties/micro",
+          "type": "integer",
+          "title": "Micro",
+          "default": 0,
+          "examples": [1000],
+          "minimum": 0.0
+        },
+        "mini": {
+          "$id": "#/properties/lots/properties/mini",
+          "type": "integer",
+          "title": "Mini",
+          "default": 0,
+          "examples": [10000],
+          "minimum": 0.0
+        },
+        "nano": {
+          "$id": "#/properties/lots/properties/nano",
+          "type": "integer",
+          "title": "Nano",
+          "default": 0,
+          "examples": [100],
+          "minimum": 0.0
+        },
+        "standard": {
+          "$id": "#/properties/lots/properties/standard",
+          "type": "integer",
+          "title": "Standard",
+          "default": 0,
+          "examples": [100000],
+          "minimum": 0.0
+        },
+        "unit": {
+          "$id": "#/properties/lots/properties/unit",
+          "type": "string",
+          "title": "Unit",
+          "default": "",
+          "examples": ["forex"],
+          "pattern": "^(.*)$"
+        }
+      },
+      "required": ["standard", "unit"]
+    },
     "type": {
       "$id": "#/properties/type",
       "type": "object",

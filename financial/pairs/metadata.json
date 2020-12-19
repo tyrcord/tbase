@@ -4,6 +4,28 @@
     "precision": 4,
     "round": 5
   },
+  "default_forex_lots": {
+    "micro": 1000,
+    "mini": 10000,
+    "nano": 100,
+    "normalized": true,
+    "standard": 100000,
+    "unit": "forex"
+  },
+  "default_silver_lots": {
+    "micro": 50,
+    "mini": 500,
+    "normalized": true,
+    "standard": 5000,
+    "unit": "ounce"
+  },
+  "default_gold_lots": {
+    "micro": 1,
+    "mini": 10,
+    "normalized": true,
+    "standard": 100,
+    "unit": "ounce"
+  },
   "pair_types": {
     "commodity_energy": {
       "key": "commodities",

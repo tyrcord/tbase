@@ -7,6 +7,13 @@
       "precision": 2,
       "round": 3
     },
+    "lots": {
+      "micro": 10,
+      "mini": 100,
+      "normalized": false,
+      "standard": 1000,
+      "unit": "barrel"
+    },
     "type": "commodity_energy"
   },
   "CLUSD": {
@@ -17,6 +24,13 @@
       "precision": 2,
       "round": 3
     },
+    "lots": {
+      "micro": 10,
+      "mini": 100,
+      "normalized": false,
+      "standard": 1000,
+      "unit": "barrel"
+    },
     "type": "commodity_energy"
   },
   "NGUSD": {
@@ -26,6 +40,13 @@
       "pipette": 4,
       "precision": 3,
       "round": 4
+    },
+    "lots": {
+      "micro": 1250,
+      "mini": 2500,
+      "normalized": true,
+      "standard": 10000,
+      "unit": "mmbtu"
     },
     "type": "commodity_energy"
   },
@@ -201,6 +222,13 @@
       "pipette": 3,
       "precision": 2,
       "round": 3
+    },
+    "lots": {
+      "micro": 1,
+      "mini": 10,
+      "normalized": true,
+      "standard": 100,
+      "unit": "ounce"
     },
     "type": "commodity_metal"
   }
