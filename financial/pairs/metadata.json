@@ -1,9 +1,4 @@
 {
-  "default_pip": {
-    "pipette": 5,
-    "precision": 4,
-    "round": 5
-  },
   "default_forex_lots": {
     "micro": 1000,
     "mini": 10000,
@@ -12,19 +7,32 @@
     "standard": 100000,
     "unit": "forex"
   },
-  "default_silver_lots": {
-    "micro": 50,
-    "mini": 500,
-    "normalized": true,
-    "standard": 5000,
-    "unit": "ounce"
+  "default_pip": {
+    "pipette": 5,
+    "precision": 4,
+    "round": 5
   },
-  "default_gold_lots": {
-    "micro": 1,
-    "mini": 10,
-    "normalized": true,
-    "standard": 100,
-    "unit": "ounce"
+  "lot_units": {
+    "barrel": {
+      "key": "barrel",
+      "long": "barrel",
+      "short": "bbl"
+    },
+    "forex": {
+      "key": "forex",
+      "long": "unit",
+      "short": "unit"
+    },
+    "mmbtu": {
+      "key": "mmbtu",
+      "long": "metric million british Thermal unit",
+      "short": "MMBtu"
+    },
+    "ounce": {
+      "key": "ounce",
+      "long": "ounce",
+      "short": "oz"
+    }
   },
   "pair_types": {
     "commodity_energy": {
