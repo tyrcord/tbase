@@ -169,6 +169,23 @@
     },
     "type": "index"
   },
+  "FVX": {
+    "code": "FVX",
+    "format": {
+      "round": 1
+    },
+    "icon": "usa",
+    "name": {
+      "key": "us5y",
+      "localized": "Treasury Yield 5 Years"
+    },
+    "symbol": {
+      "long": "FVX",
+      "short": "FVX",
+      "ticker": "FVX"
+    },
+    "type": "index"
+  },
   "GDAXI": {
     "code": "GDAXI",
     "format": {
@@ -574,6 +591,57 @@
       "long": "TA125_TA",
       "short": "TA125_TA",
       "ticker": "TA125.TA"
+    },
+    "type": "index"
+  },
+  "TNX": {
+    "code": "TNX",
+    "format": {
+      "round": 1
+    },
+    "icon": "usa",
+    "name": {
+      "key": "us10y",
+      "localized": "Treasury Yield 10 Years"
+    },
+    "symbol": {
+      "long": "TNX",
+      "short": "TNX",
+      "ticker": "TNX"
+    },
+    "type": "index"
+  },
+  "TYX": {
+    "code": "TYX",
+    "format": {
+      "round": 1
+    },
+    "icon": "usa",
+    "name": {
+      "key": "us30y",
+      "localized": "Treasury Yield 30 Years"
+    },
+    "symbol": {
+      "long": "TYX",
+      "short": "TYX",
+      "ticker": "TYX"
+    },
+    "type": "index"
+  },
+  "VIX": {
+    "code": "VIX",
+    "format": {
+      "round": 1
+    },
+    "icon": "usa",
+    "name": {
+      "key": "vix",
+      "localized": "CBOE Volatility Index"
+    },
+    "symbol": {
+      "long": "VIX",
+      "short": "VIX",
+      "ticker": "VIX"
     },
     "type": "index"
   },

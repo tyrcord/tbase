@@ -99,6 +99,16 @@
     },
     "type": "index"
   },
+  "FVXUSD": {
+    "base": "FVX",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
   "GDAXIEUR": {
     "base": "GDAXI",
     "counter": "EUR",
@@ -332,6 +342,36 @@
   "TA125_TAILS": {
     "base": "TA125_TA",
     "counter": "ILS",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "TNXUSD": {
+    "base": "TNX",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "TYXUSD": {
+    "base": "TYX",
+    "counter": "USD",
+    "pip": {
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
+    },
+    "type": "index"
+  },
+  "VIXUSD": {
+    "base": "VIX",
+    "counter": "USD",
     "pip": {
       "pipette": 1,
       "precision": 0,
