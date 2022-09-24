@@ -267,7 +267,7 @@
     "symbol": {
       "long": "IMOEX_ME",
       "short": "IMOEX_ME",
-      "ticker": "IMOEX_ME"
+      "ticker": "IMOEX.ME"
     },
     "type": "index"
   },
@@ -573,7 +573,7 @@
     "symbol": {
       "long": "TA125_TA",
       "short": "TA125_TA",
-      "ticker": "TA125_TA"
+      "ticker": "TA125.TA"
     },
     "type": "index"
   },
@@ -590,7 +590,7 @@
     "symbol": {
       "long": "XU100_IS",
       "short": "XU100_IS",
-      "ticker": "XU100_IS"
+      "ticker": "XU100.IS"
     },
     "type": "index"
   }
