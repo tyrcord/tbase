@@ -172,7 +172,7 @@
   "FVX": {
     "code": "FVX",
     "format": {
-      "round": 1
+      "round": 2
     },
     "icon": "usa",
     "name": {
@@ -597,7 +597,7 @@
   "TNX": {
     "code": "TNX",
     "format": {
-      "round": 1
+      "round": 2
     },
     "icon": "usa",
     "name": {
@@ -614,7 +614,7 @@
   "TYX": {
     "code": "TYX",
     "format": {
-      "round": 1
+      "round": 2
     },
     "icon": "usa",
     "name": {
@@ -631,7 +631,7 @@
   "VIX": {
     "code": "VIX",
     "format": {
-      "round": 1
+      "round": 2
     },
     "icon": "usa",
     "name": {

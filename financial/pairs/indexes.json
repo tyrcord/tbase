@@ -105,7 +105,7 @@
     "pip": {
       "pipette": 1,
       "precision": 0,
-      "round": 1
+      "round": 2
     },
     "type": "index"
   },
@@ -355,7 +355,7 @@
     "pip": {
       "pipette": 1,
       "precision": 0,
-      "round": 1
+      "round": 2
     },
     "type": "index"
   },
@@ -365,7 +365,7 @@
     "pip": {
       "pipette": 1,
       "precision": 0,
-      "round": 1
+      "round": 2
     },
     "type": "index"
   },
@@ -375,7 +375,7 @@
     "pip": {
       "pipette": 1,
       "precision": 0,
-      "round": 1
+      "round": 2
     },
     "type": "index"
   },
