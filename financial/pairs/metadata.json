@@ -32,9 +32,41 @@
       "key": "ounce",
       "long": "ounce",
       "short": "oz"
+    },
+    "pound": {
+      "key": "pound",
+      "long": "pound",
+      "short": "lb"
+    },
+    "troy_ounce": {
+      "key": "troy_ounce",
+      "long": "troy ounce",
+      "short": "ozt"
+    },
+    "unit": {
+      "key": "unit",
+      "long": "unit",
+      "short": "unit"
+    },
+    "bushel": {
+      "key": "bushel",
+      "long": "bushel",
+      "short": "bu"
+    },
+    "ton": {
+      "key": "ton",
+      "long": "ton",
+      "short": "ton"
     }
   },
   "pair_types": {
+    "commodity_agricultural": {
+      "key": "commodities",
+      "main": "commodity",
+      "sub": "agricultural",
+      "subKey": "agricultural",
+      "weight": 20
+    },
     "commodity_energy": {
       "key": "commodities",
       "main": "commodity",

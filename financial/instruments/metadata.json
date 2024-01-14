@@ -1,5 +1,12 @@
 {
   "instrument_types": {
+    "commodity_agricultural": {
+      "key": "commodities",
+      "main": "commodity",
+      "sub": "agricultural",
+      "subKey": "agricultural",
+      "weight": 50
+    },
     "commodity_energy": {
       "key": "commodities",
       "main": "commodity",
