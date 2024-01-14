@@ -1,4 +1,123 @@
 {
+  "AAVE": {
+    "code": "AAVE",
+    "format": {
+      "round": 3
+    },
+    "icon": "aave",
+    "name": {
+      "key": "aave",
+      "localized": "Aave"
+    },
+    "symbol": {
+      "long": "AAVE",
+      "short": "AAVE",
+      "ticker": "AAVE"
+    },
+    "type": "crypto"
+  },
+  "ADA": {
+    "code": "ADA",
+    "format": {
+      "round": 6
+    },
+    "icon": "cardano",
+    "name": {
+      "key": "cardano",
+      "localized": "Cardano"
+    },
+    "symbol": {
+      "long": "ADA",
+      "short": "ADA",
+      "ticker": "ADA"
+    },
+    "type": "crypto"
+  },
+  "ALGO": {
+    "code": "ALGO",
+    "format": {
+      "round": 6
+    },
+    "icon": "algorand",
+    "name": {
+      "key": "algorand",
+      "localized": "Algorand"
+    },
+    "symbol": {
+      "long": "ALGO",
+      "short": "ALGO",
+      "ticker": "ALGO"
+    },
+    "type": "crypto"
+  },
+  "APT": {
+    "code": "APT",
+    "format": {
+      "round": 3
+    },
+    "icon": "aptos",
+    "name": {
+      "key": "aptos",
+      "localized": "Aptos"
+    },
+    "symbol": {
+      "long": "APT",
+      "short": "APT",
+      "ticker": "APT"
+    },
+    "type": "crypto"
+  },
+  "ARB": {
+    "code": "ARB",
+    "format": {
+      "round": 3
+    },
+    "icon": "arbitrum",
+    "name": {
+      "key": "arbitrum",
+      "localized": "Arbitrum"
+    },
+    "symbol": {
+      "long": "ARB",
+      "short": "ARB",
+      "ticker": "ARB"
+    },
+    "type": "crypto"
+  },
+  "ATOM": {
+    "code": "ATOM",
+    "format": {
+      "round": 3
+    },
+    "icon": "cosmos",
+    "name": {
+      "key": "cosmos",
+      "localized": "Cosmos"
+    },
+    "symbol": {
+      "long": "ATOM",
+      "short": "ATOM",
+      "ticker": "ATOM"
+    },
+    "type": "crypto"
+  },
+  "AVAX": {
+    "code": "AVAX",
+    "format": {
+      "round": 3
+    },
+    "icon": "avalanche",
+    "name": {
+      "key": "avalanche",
+      "localized": "Avalanche"
+    },
+    "symbol": {
+      "long": "AVAX",
+      "short": "AVAX",
+      "ticker": "AVAX"
+    },
+    "type": "crypto"
+  },
   "BCH": {
     "code": "BCH",
     "format": {
@@ -13,6 +132,23 @@
       "long": "BCH",
       "short": "BCH",
       "ticker": "BCH"
+    },
+    "type": "crypto"
+  },
+  "BNB": {
+    "code": "BNB",
+    "format": {
+      "round": 3
+    },
+    "icon": "binance",
+    "name": {
+      "key": "binance",
+      "localized": "Binance Coin"
+    },
+    "symbol": {
+      "long": "BNB",
+      "short": "BNB",
+      "ticker": "BNB"
     },
     "type": "crypto"
   },
@@ -33,8 +169,42 @@
     },
     "type": "crypto"
   },
-  "DSH": {
-    "code": "DSH",
+  "CAKE": {
+    "code": "CAKE",
+    "format": {
+      "round": 3
+    },
+    "icon": "pancake_swap",
+    "name": {
+      "key": "pancake_swap",
+      "localized": "Pancake Swap"
+    },
+    "symbol": {
+      "long": "CAKE",
+      "short": "CAKE",
+      "ticker": "CAKE"
+    },
+    "type": "crypto"
+  },
+  "DAI": {
+    "code": "DAI",
+    "format": {
+      "round": 6
+    },
+    "icon": "dai_stable_coin",
+    "name": {
+      "key": "dai_stable_coin",
+      "localized": "Dai Stable Coin"
+    },
+    "symbol": {
+      "long": "DAI",
+      "short": "DAI",
+      "ticker": "DAI"
+    },
+    "type": "crypto"
+  },
+  "DASH": {
+    "code": "DASH",
     "format": {
       "round": 3
     },
@@ -44,9 +214,77 @@
       "localized": "Dash"
     },
     "symbol": {
-      "long": "DSH",
-      "short": "DSH",
-      "ticker": "DSH"
+      "long": "DASH",
+      "short": "DASH",
+      "ticker": "DASH"
+    },
+    "type": "crypto"
+  },
+  "DOGE": {
+    "code": "DOGE",
+    "format": {
+      "round": 6
+    },
+    "icon": "dogecoin",
+    "name": {
+      "key": "dogecoin",
+      "localized": "Dogecoin"
+    },
+    "symbol": {
+      "long": "DOGE",
+      "short": "DOGE",
+      "ticker": "DOGE"
+    },
+    "type": "crypto"
+  },
+  "DOT": {
+    "code": "DOT",
+    "format": {
+      "round": 3
+    },
+    "icon": "polkadot",
+    "name": {
+      "key": "polkadot",
+      "localized": "Polkadot"
+    },
+    "symbol": {
+      "long": "DOT",
+      "short": "DOT",
+      "ticker": "DOT"
+    },
+    "type": "crypto"
+  },
+  "EOS": {
+    "code": "EOS",
+    "format": {
+      "round": 3
+    },
+    "icon": "eos",
+    "name": {
+      "key": "eos",
+      "localized": "EOS"
+    },
+    "symbol": {
+      "long": "EOS",
+      "short": "EOS",
+      "ticker": "EOS"
+    },
+    "type": "crypto"
+  },
+  "ETC": {
+    "code": "ETC",
+    "format": {
+      "round": 3
+    },
+    "icon": "ethereum_classic",
+    "name": {
+      "key": "ethereum_classic",
+      "localized": "Ethereum Classic"
+    },
+    "symbol": {
+      "long": "ETC",
+      "short": "ETC",
+      "ticker": "ETC"
     },
     "type": "crypto"
   },
@@ -67,6 +305,193 @@
     },
     "type": "crypto"
   },
+  "FIL": {
+    "code": "FIL",
+    "format": {
+      "round": 3
+    },
+    "icon": "filecoin",
+    "name": {
+      "key": "filecoin",
+      "localized": "Filecoin"
+    },
+    "symbol": {
+      "long": "FIL",
+      "short": "FIL",
+      "ticker": "FIL"
+    },
+    "type": "crypto"
+  },
+  "HBAR": {
+    "code": "HBAR",
+    "format": {
+      "round": 6
+    },
+    "icon": "hedera",
+    "name": {
+      "key": "hedera",
+      "localized": "Hedera Hashgraph"
+    },
+    "symbol": {
+      "long": "HBAR",
+      "short": "HBAR",
+      "ticker": "HBAR"
+    },
+    "type": "crypto"
+  },
+  "ICP": {
+    "code": "ICP",
+    "format": {
+      "round": 3
+    },
+    "icon": "internet_computer",
+    "name": {
+      "key": "internet_computer",
+      "localized": "Internet Computer"
+    },
+    "symbol": {
+      "long": "ICP",
+      "short": "ICP",
+      "ticker": "ICP"
+    },
+    "type": "crypto"
+  },
+  "IMX": {
+    "code": "IMX",
+    "format": {
+      "round": 3
+    },
+    "icon": "immutable_x",
+    "name": {
+      "key": "immutable_x",
+      "localized": "Immutable X"
+    },
+    "symbol": {
+      "long": "IMX",
+      "short": "IMX",
+      "ticker": "IMX"
+    },
+    "type": "crypto"
+  },
+  "INJ": {
+    "code": "INJ",
+    "format": {
+      "round": 3
+    },
+    "icon": "injective_protocol",
+    "name": {
+      "key": "injective_protocol",
+      "localized": "Injective Protocol"
+    },
+    "symbol": {
+      "long": "INJ",
+      "short": "INJ",
+      "ticker": "INJ"
+    },
+    "type": "crypto"
+  },
+  "IOTA": {
+    "code": "IOTA",
+    "format": {
+      "round": 6
+    },
+    "icon": "iota",
+    "name": {
+      "key": "iota",
+      "localized": "IOTA"
+    },
+    "symbol": {
+      "long": "IOTA",
+      "short": "MIOTA",
+      "ticker": "IOTA"
+    },
+    "type": "crypto"
+  },
+  "KAS": {
+    "code": "KAS",
+    "format": {
+      "round": 3
+    },
+    "icon": "kas",
+    "name": {
+      "key": "kas",
+      "localized": "KAS"
+    },
+    "symbol": {
+      "long": "KAS",
+      "short": "KAS",
+      "ticker": "KAS"
+    },
+    "type": "crypto"
+  },
+  "KAVA": {
+    "code": "KAVA",
+    "format": {
+      "round": 3
+    },
+    "icon": "kava",
+    "name": {
+      "key": "kava",
+      "localized": "Kava"
+    },
+    "symbol": {
+      "long": "KAVA",
+      "short": "KAVA",
+      "ticker": "KAVA"
+    },
+    "type": "crypto"
+  },
+  "LDO": {
+    "code": "LDO",
+    "format": {
+      "round": 3
+    },
+    "icon": "lido_dao",
+    "name": {
+      "key": "lido_dao",
+      "localized": "Lido DAO"
+    },
+    "symbol": {
+      "long": "LDO",
+      "short": "LDO",
+      "ticker": "LDO"
+    },
+    "type": "crypto"
+  },
+  "LEO": {
+    "code": "LEO",
+    "format": {
+      "round": 3
+    },
+    "icon": "unus_sed_leo",
+    "name": {
+      "key": "unus_sed_leo",
+      "localized": "Unus Sed Leo"
+    },
+    "symbol": {
+      "long": "LEO",
+      "short": "LEO",
+      "ticker": "LEO"
+    },
+    "type": "crypto"
+  },
+  "LINK": {
+    "code": "LINK",
+    "format": {
+      "round": 3
+    },
+    "icon": "chainlink",
+    "name": {
+      "key": "chainlink",
+      "localized": "Chainlink"
+    },
+    "symbol": {
+      "long": "LINK",
+      "short": "LINK",
+      "ticker": "LINK"
+    },
+    "type": "crypto"
+  },
   "LTC": {
     "code": "LTC",
     "format": {
@@ -84,6 +509,380 @@
     },
     "type": "crypto"
   },
+  "MATIC": {
+    "code": "MATIC",
+    "format": {
+      "round": 3
+    },
+    "icon": "matic",
+    "name": {
+      "key": "matic",
+      "localized": "MATIC"
+    },
+    "symbol": {
+      "long": "MATIC",
+      "short": "MATIC",
+      "ticker": "MATIC"
+    },
+    "type": "crypto"
+  },
+  "MKR": {
+    "code": "MKR",
+    "format": {
+      "round": 3
+    },
+    "icon": "maker",
+    "name": {
+      "key": "maker",
+      "localized": "Maker"
+    },
+    "symbol": {
+      "long": "MKR",
+      "short": "MKR",
+      "ticker": "MKR"
+    },
+    "type": "crypto"
+  },
+  "NEAR": {
+    "code": "NEAR",
+    "format": {
+      "round": 3
+    },
+    "icon": "near_protocol",
+    "name": {
+      "key": "near_protocol",
+      "localized": "Near Protocol"
+    },
+    "symbol": {
+      "long": "NEAR",
+      "short": "NEAR",
+      "ticker": "NEAR"
+    },
+    "type": "crypto"
+  },
+  "NEO": {
+    "code": "NEO",
+    "format": {
+      "round": 3
+    },
+    "icon": "neo",
+    "name": {
+      "key": "neo",
+      "localized": "NEO"
+    },
+    "symbol": {
+      "long": "NEO",
+      "short": "NEO",
+      "ticker": "NEO"
+    },
+    "type": "crypto"
+  },
+  "OKB": {
+    "code": "OKB",
+    "format": {
+      "round": 3
+    },
+    "icon": "okb_token",
+    "name": {
+      "key": "okb_token",
+      "localized": "OKB Token"
+    },
+    "symbol": {
+      "long": "OKB",
+      "short": "OKB",
+      "ticker": "OKB"
+    },
+    "type": "crypto"
+  },
+  "OP": {
+    "code": "OP",
+    "format": {
+      "round": 3
+    },
+    "icon": "optimism",
+    "name": {
+      "key": "optimism",
+      "localized": "Optimism"
+    },
+    "symbol": {
+      "long": "OP",
+      "short": "OP",
+      "ticker": "OP"
+    },
+    "type": "crypto"
+  },
+  "ORDI": {
+    "code": "ORDI",
+    "format": {
+      "round": 3
+    },
+    "icon": "ordi",
+    "name": {
+      "key": "ordi",
+      "localized": "ORDI"
+    },
+    "symbol": {
+      "long": "ORDI",
+      "short": "ORDI",
+      "ticker": "ORDI"
+    },
+    "type": "crypto"
+  },
+  "RUNE": {
+    "code": "RUNE",
+    "format": {
+      "round": 3
+    },
+    "icon": "thorchain",
+    "name": {
+      "key": "thorchain",
+      "localized": "ThorChain"
+    },
+    "symbol": {
+      "long": "RUNE",
+      "short": "RUNE",
+      "ticker": "RUNE"
+    },
+    "type": "crypto"
+  },
+  "SAND": {
+    "code": "SAND",
+    "format": {
+      "round": 3
+    },
+    "icon": "sand",
+    "name": {
+      "key": "sand",
+      "localized": "SAND"
+    },
+    "symbol": {
+      "long": "SAND",
+      "short": "SAND",
+      "ticker": "SAND"
+    },
+    "type": "crypto"
+  },
+  "SEI": {
+    "code": "SEI",
+    "format": {
+      "round": 3
+    },
+    "icon": "sei",
+    "name": {
+      "key": "sei",
+      "localized": "SEI"
+    },
+    "symbol": {
+      "long": "SEI",
+      "short": "SEI",
+      "ticker": "SEI"
+    },
+    "type": "crypto"
+  },
+  "SHIB": {
+    "code": "SHIB",
+    "format": {
+      "round": 6
+    },
+    "icon": "shiba_inu",
+    "name": {
+      "key": "shiba_inu",
+      "localized": "Shiba Inu"
+    },
+    "symbol": {
+      "long": "SHIB",
+      "short": "SHIB",
+      "ticker": "SHIB"
+    },
+    "type": "crypto"
+  },
+  "SOL": {
+    "code": "SOL",
+    "format": {
+      "round": 3
+    },
+    "icon": "solana",
+    "name": {
+      "key": "solana",
+      "localized": "Solana"
+    },
+    "symbol": {
+      "long": "SOL",
+      "short": "SOL",
+      "ticker": "SOL"
+    },
+    "type": "crypto"
+  },
+  "STX": {
+    "code": "STX",
+    "format": {
+      "round": 3
+    },
+    "icon": "stacks",
+    "name": {
+      "key": "stacks",
+      "localized": "Stacks"
+    },
+    "symbol": {
+      "long": "STX",
+      "short": "STX",
+      "ticker": "STX"
+    },
+    "type": "crypto"
+  },
+  "TIA": {
+    "code": "TIA",
+    "format": {
+      "round": 3
+    },
+    "icon": "celestia",
+    "name": {
+      "key": "celestia",
+      "localized": "Celestia"
+    },
+    "symbol": {
+      "long": "TIA",
+      "short": "TIA",
+      "ticker": "TIA"
+    },
+    "type": "crypto"
+  },
+  "TON": {
+    "code": "TON",
+    "format": {
+      "round": 3
+    },
+    "icon": "ton",
+    "name": {
+      "key": "ton",
+      "localized": "TON"
+    },
+    "symbol": {
+      "long": "TON",
+      "short": "TON",
+      "ticker": "TON"
+    },
+    "type": "crypto"
+  },
+  "TRX": {
+    "code": "TRX",
+    "format": {
+      "round": 6
+    },
+    "icon": "tron",
+    "name": {
+      "key": "tron",
+      "localized": "Tron"
+    },
+    "symbol": {
+      "long": "TRX",
+      "short": "TRX",
+      "ticker": "TRX"
+    },
+    "type": "crypto"
+  },
+  "UNI": {
+    "code": "UNI",
+    "format": {
+      "round": 3
+    },
+    "icon": "uniswap",
+    "name": {
+      "key": "uniswap",
+      "localized": "Uniswap"
+    },
+    "symbol": {
+      "long": "UNI",
+      "short": "UNI",
+      "ticker": "UNI"
+    },
+    "type": "crypto"
+  },
+  "USDC": {
+    "code": "USDC",
+    "format": {
+      "round": 6
+    },
+    "icon": "usdc",
+    "name": {
+      "key": "usdc",
+      "localized": "USDC Stable Coin"
+    },
+    "symbol": {
+      "long": "USDC",
+      "short": "USDC",
+      "ticker": "USDC"
+    },
+    "type": "crypto"
+  },
+  "USDT": {
+    "code": "USDT",
+    "format": {
+      "round": 6
+    },
+    "icon": "tether",
+    "name": {
+      "key": "tether",
+      "localized": "Tether"
+    },
+    "symbol": {
+      "long": "USDT",
+      "short": "USDT",
+      "ticker": "USDT"
+    },
+    "type": "crypto"
+  },
+  "VET": {
+    "code": "VET",
+    "format": {
+      "round": 6
+    },
+    "icon": "vechain",
+    "name": {
+      "key": "vechain",
+      "localized": "VeChain"
+    },
+    "symbol": {
+      "long": "VET",
+      "short": "VET",
+      "ticker": "VET"
+    },
+    "type": "crypto"
+  },
+  "XLM": {
+    "code": "XLM",
+    "format": {
+      "round": 6
+    },
+    "icon": "stellar",
+    "name": {
+      "key": "stellar",
+      "localized": "Stellar"
+    },
+    "symbol": {
+      "long": "XLM",
+      "short": "XLM",
+      "ticker": "XLM"
+    },
+    "type": "crypto"
+  },
+  "XMR": {
+    "code": "XMR",
+    "format": {
+      "round": 3
+    },
+    "icon": "monero",
+    "name": {
+      "key": "monero",
+      "localized": "Monero"
+    },
+    "symbol": {
+      "long": "XMR",
+      "short": "XMR",
+      "ticker": "XMR"
+    },
+    "type": "crypto"
+  },
   "XRP": {
     "code": "XRP",
     "format": {
@@ -98,6 +897,23 @@
       "long": "XRP",
       "short": "XRP",
       "ticker": "XRP"
+    },
+    "type": "crypto"
+  },
+  "XTZ": {
+    "code": "XTZ",
+    "format": {
+      "round": 3
+    },
+    "icon": "tezos",
+    "name": {
+      "key": "tezos",
+      "localized": "Tezos"
+    },
+    "symbol": {
+      "long": "XTZ",
+      "short": "XTZ",
+      "ticker": "XTZ"
     },
     "type": "crypto"
   }
