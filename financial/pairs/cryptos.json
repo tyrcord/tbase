@@ -13,9 +13,9 @@
     "base": "ADA",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -23,9 +23,9 @@
     "base": "ALGO",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -113,9 +113,9 @@
     "base": "DAI",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -133,9 +133,9 @@
     "base": "DOGE",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 6,
+      "precision": 5,
+      "round": 6
     },
     "type": "crypto"
   },
@@ -153,9 +153,9 @@
     "base": "EOS",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -193,9 +193,9 @@
     "base": "HBAR",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 6,
+      "precision": 5,
+      "round": 6
     },
     "type": "crypto"
   },
@@ -233,9 +233,9 @@
     "base": "IOTA",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -243,9 +243,9 @@
     "base": "KAS",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -253,9 +253,9 @@
     "base": "KAVA",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -269,7 +269,7 @@
     },
     "type": "crypto"
   },
-  "LEOUSUSD": {
+  "LEOUSD": {
     "base": "LEO",
     "counter": "USD",
     "pip": {
@@ -303,9 +303,9 @@
     "base": "MATIC",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 4,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -383,9 +383,9 @@
     "base": "SAND",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -393,9 +393,9 @@
     "base": "SEI",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -403,9 +403,9 @@
     "base": "SHIB",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 10,
+      "precision": 9,
+      "round": 10
     },
     "type": "crypto"
   },
@@ -453,9 +453,9 @@
     "base": "TRX",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -473,9 +473,9 @@
     "base": "USDC",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -483,9 +483,9 @@
     "base": "USDT",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -493,9 +493,9 @@
     "base": "VET",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },
@@ -503,9 +503,9 @@
     "base": "XLM",
     "counter": "USD",
     "pip": {
-      "pipette": 3,
-      "precision": 2,
-      "round": 3
+      "pipette": 5,
+      "precision": 4,
+      "round": 5
     },
     "type": "crypto"
   },

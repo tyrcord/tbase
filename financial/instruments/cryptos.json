@@ -19,7 +19,7 @@
   "ADA": {
     "code": "ADA",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "cardano",
     "name": {
@@ -36,7 +36,7 @@
   "ALGO": {
     "code": "ALGO",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "algorand",
     "name": {
@@ -189,7 +189,7 @@
   "DAI": {
     "code": "DAI",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "dai_stable_coin",
     "name": {
@@ -257,7 +257,7 @@
   "EOS": {
     "code": "EOS",
     "format": {
-      "round": 3
+      "round": 5
     },
     "icon": "eos",
     "name": {
@@ -393,7 +393,7 @@
   "IOTA": {
     "code": "IOTA",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "iota",
     "name": {
@@ -410,7 +410,7 @@
   "KAS": {
     "code": "KAS",
     "format": {
-      "round": 3
+      "round": 5
     },
     "icon": "kas",
     "name": {
@@ -427,7 +427,7 @@
   "KAVA": {
     "code": "KAVA",
     "format": {
-      "round": 3
+      "round": 5
     },
     "icon": "kava",
     "name": {
@@ -512,7 +512,7 @@
   "MATIC": {
     "code": "MATIC",
     "format": {
-      "round": 3
+      "round": 5
     },
     "icon": "matic",
     "name": {
@@ -648,7 +648,7 @@
   "SAND": {
     "code": "SAND",
     "format": {
-      "round": 3
+      "round": 5
     },
     "icon": "sand",
     "name": {
@@ -665,7 +665,7 @@
   "SEI": {
     "code": "SEI",
     "format": {
-      "round": 3
+      "round": 5
     },
     "icon": "sei",
     "name": {
@@ -682,7 +682,7 @@
   "SHIB": {
     "code": "SHIB",
     "format": {
-      "round": 6
+      "round": 10
     },
     "icon": "shiba_inu",
     "name": {
@@ -767,7 +767,7 @@
   "TRX": {
     "code": "TRX",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "tron",
     "name": {
@@ -801,7 +801,7 @@
   "USDC": {
     "code": "USDC",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "usdc",
     "name": {
@@ -818,7 +818,7 @@
   "USDT": {
     "code": "USDT",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "tether",
     "name": {
@@ -835,7 +835,7 @@
   "VET": {
     "code": "VET",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "vechain",
     "name": {
@@ -852,7 +852,7 @@
   "XLM": {
     "code": "XLM",
     "format": {
-      "round": 6
+      "round": 5
     },
     "icon": "stellar",
     "name": {
