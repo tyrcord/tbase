@@ -1,18 +1,18 @@
 {
-  "ALI": {
+  "ALIUSD": {
     "base": "ALI",
     "counter": "USD",
     "lots": {
-      "micro": 1000,
-      "mini": 5000,
+      "micro": 1,
+      "mini": 5,
       "normalized": false,
-      "standard": 25000,
+      "standard": 25,
       "unit": "ton"
     },
     "pip": {
-      "pipette": 2,
-      "precision": 0.5,
-      "round": 2
+      "pipette": 3,
+      "precision": 2,
+      "round": 3
     },
     "type": "commodity_metal"
   },
@@ -33,20 +33,20 @@
     },
     "type": "commodity_energy"
   },
-  "CC": {
+  "CCUSD": {
     "base": "CC",
     "counter": "USD",
     "lots": {
-      "micro": 10,
-      "mini": 100,
+      "micro": 0.1,
+      "mini": 1,
       "normalized": false,
-      "standard": 1000,
+      "standard": 10,
       "unit": "ton"
     },
     "pip": {
-      "pipette": 2,
-      "precision": 1,
-      "round": 2
+      "pipette": 1,
+      "precision": 0,
+      "round": 1
     },
     "type": "commodity_agricultural"
   },
@@ -67,73 +67,22 @@
     },
     "type": "commodity_energy"
   },
-  "CT": {
-    "base": "CT",
-    "counter": "USD",
-    "lots": {
-      "micro": 500,
-      "mini": 5000,
-      "normalized": false,
-      "standard": 50000,
-      "unit": "pound"
-    },
-    "pip": {
-      "pipette": 2,
-      "precision": 0.01,
-      "round": 2
-    },
-    "type": "commodity_agricultural"
-  },
-  "HG": {
+  "HGUSD": {
     "base": "HG",
     "counter": "USD",
     "lots": {
-      "micro": 25000,
-      "mini": 125000,
+      "micro": 250,
+      "mini": 2500,
       "normalized": false,
-      "standard": 250000,
+      "standard": 25000,
       "unit": "pound"
     },
     "pip": {
       "pipette": 5,
-      "precision": 0.0005,
-      "round": 2
+      "precision": 4,
+      "round": 5
     },
     "type": "commodity_metal"
-  },
-  "KC": {
-    "base": "KC",
-    "counter": "USD",
-    "lots": {
-      "micro": 375,
-      "mini": 3750,
-      "normalized": false,
-      "standard": 37500,
-      "unit": "pound"
-    },
-    "pip": {
-      "pipette": 5,
-      "precision": 0.05,
-      "round": 2
-    },
-    "type": "commodity_agricultural"
-  },
-  "KE": {
-    "base": "KE",
-    "counter": "USD",
-    "lots": {
-      "micro": 10,
-      "mini": 100,
-      "normalized": false,
-      "standard": 1000,
-      "unit": "ton"
-    },
-    "pip": {
-      "pipette": 2,
-      "precision": 1,
-      "round": 2
-    },
-    "type": "commodity_agricultural"
   },
   "NGUSD": {
     "base": "NG",
@@ -156,10 +105,10 @@
     "base": "PA",
     "counter": "USD",
     "lots": {
-      "micro": 100,
-      "mini": 1000,
+      "micro": 1,
+      "mini": 10,
       "normalized": false,
-      "standard": 10000,
+      "standard": 100,
       "unit": "ounce"
     },
     "pip": {
@@ -168,23 +117,6 @@
       "round": 2
     },
     "type": "commodity_metal"
-  },
-  "SB": {
-    "base": "SB",
-    "counter": "USD",
-    "lots": {
-      "micro": 1120,
-      "mini": 11200,
-      "normalized": false,
-      "standard": 112000,
-      "unit": "pound"
-    },
-    "pip": {
-      "pipette": 2,
-      "precision": 0.01,
-      "round": 2
-    },
-    "type": "commodity_agricultural"
   },
   "XAGAUD": {
     "base": "XAG",
@@ -498,40 +430,6 @@
       "pipette": 3,
       "precision": 2,
       "round": 3
-    },
-    "type": "commodity_metal"
-  },
-  "ZC": {
-    "base": "ZC",
-    "counter": "USD",
-    "lots": {
-      "micro": 100,
-      "mini": 1000,
-      "normalized": false,
-      "standard": 5000,
-      "unit": "bushel"
-    },
-    "pip": {
-      "pipette": 4,
-      "precision": 0.25,
-      "round": 2
-    },
-    "type": "commodity_agricultural"
-  },
-  "ZL": {
-    "base": "ZL",
-    "counter": "USD",
-    "lots": {
-      "micro": 50,
-      "mini": 500,
-      "normalized": false,
-      "standard": 5000,
-      "unit": "pound"
-    },
-    "pip": {
-      "pipette": 5,
-      "precision": 0.01,
-      "round": 2
     },
     "type": "commodity_metal"
   }
