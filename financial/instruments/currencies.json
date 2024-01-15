@@ -61,8 +61,8 @@
       "localized": "Bangladeshi Taka"
     },
     "symbol": {
-      "long": "৳",
-      "short": "৳",
+      "long": "\u09f3",
+      "short": "\u09f3",
       "ticker": "BDT"
     },
     "type": "currency"
@@ -78,8 +78,8 @@
       "localized": "Bulgarian Lev"
     },
     "symbol": {
-      "long": "лв",
-      "short": "лв",
+      "long": "\u043b\u0432",
+      "short": "\u043b\u0432",
       "ticker": "BGN"
     },
     "type": "currency"
@@ -185,8 +185,8 @@
       "localized": "Chinese Yuan Renminbi"
     },
     "symbol": {
-      "long": "¥",
-      "short": "¥",
+      "long": "\u00a5",
+      "short": "\u00a5",
       "ticker": "CNH"
     },
     "type": "currency"
@@ -219,8 +219,8 @@
       "localized": "Czech koruna"
     },
     "symbol": {
-      "long": "Kč",
-      "short": "Kč",
+      "long": "K\u010d",
+      "short": "K\u010d",
       "ticker": "CZK"
     },
     "type": "currency"
@@ -304,8 +304,8 @@
       "localized": "Euro"
     },
     "symbol": {
-      "long": "€",
-      "short": "€",
+      "long": "\u20ac",
+      "short": "\u20ac",
       "ticker": "EUR"
     },
     "type": "currency"
@@ -338,8 +338,8 @@
       "localized": "Pound sterling"
     },
     "symbol": {
-      "long": "£",
-      "short": "£",
+      "long": "\u00a3",
+      "short": "\u00a3",
       "ticker": "GBP"
     },
     "type": "currency"
@@ -355,8 +355,8 @@
       "localized": "Ghanaian Cedi"
     },
     "symbol": {
-      "long": "GH₵",
-      "short": "GH₵",
+      "long": "GH\u20b5",
+      "short": "GH\u20b5",
       "ticker": "GHS"
     },
     "type": "currency"
@@ -440,8 +440,8 @@
       "localized": "Israeli new shekel"
     },
     "symbol": {
-      "long": "₪",
-      "short": "₪",
+      "long": "\u20aa",
+      "short": "\u20aa",
       "ticker": "ILS"
     },
     "type": "currency"
@@ -457,8 +457,8 @@
       "localized": "Indian rupee"
     },
     "symbol": {
-      "long": "₹",
-      "short": "₹",
+      "long": "\u20b9",
+      "short": "\u20b9",
       "ticker": "INR"
     },
     "type": "currency"
@@ -505,7 +505,7 @@
     "icon": "iceland",
     "name": {
       "key": "icelandic_krona",
-      "localized": "Icelandic króna"
+      "localized": "Icelandic kr\u00f3na"
     },
     "symbol": {
       "long": "ISK",
@@ -559,8 +559,8 @@
       "localized": "Japanese yen"
     },
     "symbol": {
-      "long": "¥",
-      "short": "¥",
+      "long": "\u00a5",
+      "short": "\u00a5",
       "ticker": "JPY"
     },
     "type": "currency"
@@ -610,8 +610,8 @@
       "localized": "South Korean won"
     },
     "symbol": {
-      "long": "₩",
-      "short": "₩",
+      "long": "\u20a9",
+      "short": "\u20a9",
       "ticker": "KRW"
     },
     "type": "currency"
@@ -628,7 +628,7 @@
     },
     "symbol": {
       "long": "KD",
-      "short": "د.ك",
+      "short": "\u062f.\u0643",
       "ticker": "KWD"
     },
     "type": "currency"
@@ -780,8 +780,8 @@
       "localized": "Nigerian naira"
     },
     "symbol": {
-      "long": "₦",
-      "short": "₦",
+      "long": "\u20a6",
+      "short": "\u20a6",
       "ticker": "NGN"
     },
     "type": "currency"
@@ -879,11 +879,11 @@
     "icon": "poland",
     "name": {
       "key": "polish_zloty",
-      "localized": "Polish złoty"
+      "localized": "Polish z\u0142oty"
     },
     "symbol": {
-      "long": "zł",
-      "short": "zł",
+      "long": "z\u0142",
+      "short": "z\u0142",
       "ticker": "PLN"
     },
     "type": "currency"
@@ -933,8 +933,8 @@
       "localized": "Russian Ruble"
     },
     "symbol": {
-      "long": "₽",
-      "short": "₽",
+      "long": "\u20bd",
+      "short": "\u20bd",
       "ticker": "RUB"
     },
     "type": "currency"
@@ -950,8 +950,8 @@
       "localized": "Saudi riyal"
     },
     "symbol": {
-      "long": "SِAR",
-      "short": "SِAR",
+      "long": "S\u0650AR",
+      "short": "S\u0650AR",
       "ticker": "SAR"
     },
     "type": "currency"
@@ -1035,8 +1035,8 @@
       "localized": "Thai baht"
     },
     "symbol": {
-      "long": "฿",
-      "short": "฿",
+      "long": "\u0e3f",
+      "short": "\u0e3f",
       "ticker": "THB"
     },
     "type": "currency"
@@ -1069,8 +1069,8 @@
       "localized": "Turkish lira"
     },
     "symbol": {
-      "long": "₺",
-      "short": "₺",
+      "long": "\u20ba",
+      "short": "\u20ba",
       "ticker": "TRY"
     },
     "type": "currency"
@@ -1188,8 +1188,8 @@
       "localized": "Yemeni Rial"
     },
     "symbol": {
-      "long": "﷼",
-      "short": "﷼",
+      "long": "\ufdfc",
+      "short": "\ufdfc",
       "ticker": "YER"
     },
     "type": "currency"

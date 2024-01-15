@@ -1,17 +1,16 @@
 {
-  "definitions": {},
-  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "http://example.com/root.json",
-  "type": "object",
-  "title": "Pair",
-  "required": ["base", "counter", "type"],
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {},
   "properties": {
     "base": {
       "$id": "#/properties/base",
       "type": "string",
       "title": "Base",
       "default": "",
-      "examples": ["USD"],
+      "examples": [
+        "USD"
+      ],
       "pattern": "^(.*)$"
     },
     "counter": {
@@ -19,21 +18,29 @@
       "type": "string",
       "title": "Counter",
       "default": "",
-      "examples": ["CAD"],
+      "examples": [
+        "CAD"
+      ],
       "pattern": "^(.*)$"
     },
     "pip": {
       "$id": "#/properties/pip",
       "type": "object",
       "title": "Pip",
-      "required": ["precision", "pipette", "round"],
+      "required": [
+        "precision",
+        "pipette",
+        "round"
+      ],
       "properties": {
         "precision": {
           "$id": "#/properties/pip/properties/precision",
           "type": "integer",
           "title": "Precision",
           "default": 0,
-          "examples": [4],
+          "examples": [
+            4
+          ],
           "minimum": 0.0
         },
         "pipette": {
@@ -41,7 +48,9 @@
           "type": "integer",
           "title": "Pipette",
           "default": 0,
-          "examples": [5],
+          "examples": [
+            5
+          ],
           "minimum": 0.0
         },
         "round": {
@@ -49,7 +58,9 @@
           "type": "integer",
           "title": "Round",
           "default": 0,
-          "examples": [5],
+          "examples": [
+            5
+          ],
           "minimum": 0.0
         }
       }
@@ -65,7 +76,9 @@
           "type": "integer",
           "title": "Micro",
           "default": 0,
-          "examples": [1000],
+          "examples": [
+            1000
+          ],
           "minimum": 0.0
         },
         "mini": {
@@ -73,7 +86,9 @@
           "type": "integer",
           "title": "Mini",
           "default": 0,
-          "examples": [10000],
+          "examples": [
+            10000
+          ],
           "minimum": 0.0
         },
         "nano": {
@@ -81,7 +96,9 @@
           "type": "integer",
           "title": "Nano",
           "default": 0,
-          "examples": [100],
+          "examples": [
+            100
+          ],
           "minimum": 0.0
         },
         "standard": {
@@ -89,7 +106,9 @@
           "type": "integer",
           "title": "Standard",
           "default": 0,
-          "examples": [100000],
+          "examples": [
+            100000
+          ],
           "minimum": 0.0
         },
         "unit": {
@@ -97,35 +116,53 @@
           "type": "string",
           "title": "Unit",
           "default": "",
-          "examples": ["forex"],
+          "examples": [
+            "forex"
+          ],
           "pattern": "^(.*)$"
         }
       },
-      "required": ["standard", "unit"]
+      "required": [
+        "standard",
+        "unit"
+      ]
     },
     "type": {
       "$id": "#/properties/type",
       "type": "object",
       "title": "Type",
-      "required": ["main"],
+      "required": [
+        "main"
+      ],
       "properties": {
         "main": {
           "$id": "#/properties/type/properties/main",
           "type": "string",
           "title": "Main",
           "default": "",
-          "examples": ["currency"],
+          "examples": [
+            "currency"
+          ],
           "pattern": "^(.*)$"
         },
         "sub": {
           "$id": "#/properties/type/properties/sub",
           "type": "string",
           "title": "Sub",
-          "examples": ["metal"],
+          "examples": [
+            "metal"
+          ],
           "default": "",
           "pattern": "^(.*)$"
         }
       }
     }
-  }
+  },
+  "required": [
+    "base",
+    "counter",
+    "type"
+  ],
+  "title": "Pair",
+  "type": "object"
 }

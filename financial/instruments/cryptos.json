@@ -164,7 +164,7 @@
     },
     "symbol": {
       "long": "BTC",
-      "short": "₿",
+      "short": "\u20bf",
       "ticker": "BTC"
     },
     "type": "crypto"

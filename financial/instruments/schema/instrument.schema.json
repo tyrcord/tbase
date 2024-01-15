@@ -1,17 +1,16 @@
 {
-  "definitions": {},
-  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "http://example.com/root.json",
-  "type": "object",
-  "title": "Instrument",
-  "required": ["code", "name", "pip", "format", "symbol", "type", "icon"],
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {},
   "properties": {
     "code": {
       "$id": "#/properties/code",
       "type": "string",
       "title": "Code",
       "default": "",
-      "examples": ["USD"],
+      "examples": [
+        "USD"
+      ],
       "pattern": "^(.*)$"
     },
     "icon": {
@@ -19,21 +18,28 @@
       "type": "string",
       "title": "Icon",
       "default": "",
-      "examples": ["icon"],
+      "examples": [
+        "icon"
+      ],
       "pattern": "^(.*)$"
     },
     "name": {
       "$id": "#/properties/name",
       "type": "object",
       "title": "Name",
-      "required": ["key", "localized"],
+      "required": [
+        "key",
+        "localized"
+      ],
       "properties": {
         "key": {
           "$id": "#/properties/name/properties/key",
           "type": "string",
           "title": "Key",
           "default": "",
-          "examples": ["american_dollar"],
+          "examples": [
+            "american_dollar"
+          ],
           "pattern": "^(.*)$"
         },
         "localized": {
@@ -41,24 +47,29 @@
           "type": "string",
           "title": "Localized",
           "default": "",
-          "examples": ["United States dollar"],
+          "examples": [
+            "United States dollar"
+          ],
           "pattern": "^(.*)$"
         }
       }
     },
-
     "format": {
       "$id": "#/properties/format",
       "type": "object",
       "title": "Format",
-      "required": ["round"],
+      "required": [
+        "round"
+      ],
       "properties": {
         "round": {
           "$id": "#/properties/format/properties/round",
           "type": "integer",
           "title": "Round",
           "default": 0,
-          "examples": [3],
+          "examples": [
+            3
+          ],
           "minimum": 0.0
         }
       }
@@ -67,14 +78,20 @@
       "$id": "#/properties/symbol",
       "type": "object",
       "title": "Symbol",
-      "required": ["ticker", "long", "short"],
+      "required": [
+        "ticker",
+        "long",
+        "short"
+      ],
       "properties": {
         "ticker": {
           "$id": "#/properties/symbol/properties/ticker",
           "type": "string",
           "title": "Ticker",
           "default": "",
-          "examples": ["USD"],
+          "examples": [
+            "USD"
+          ],
           "pattern": "^(.*)$"
         },
         "long": {
@@ -82,7 +99,9 @@
           "type": "string",
           "title": "Long",
           "default": "",
-          "examples": ["US$"],
+          "examples": [
+            "US$"
+          ],
           "pattern": "^(.*)$"
         },
         "short": {
@@ -90,7 +109,9 @@
           "type": "string",
           "title": "Short",
           "default": "",
-          "examples": ["$"],
+          "examples": [
+            "$"
+          ],
           "pattern": "^(.*)$"
         }
       }
@@ -99,24 +120,41 @@
       "$id": "#/properties/type",
       "type": "object",
       "title": "Type",
-      "required": ["main"],
+      "required": [
+        "main"
+      ],
       "properties": {
         "main": {
           "$id": "#/properties/type/properties/main",
           "type": "string",
           "title": "Main",
           "default": "",
-          "examples": ["currency"],
+          "examples": [
+            "currency"
+          ],
           "pattern": "^(.*)$"
         },
         "sub": {
           "$id": "#/properties/type/properties/sub",
           "type": "string",
           "title": "Sub",
-          "examples": ["metal"],
+          "examples": [
+            "metal"
+          ],
           "default": ""
         }
       }
     }
-  }
+  },
+  "required": [
+    "code",
+    "name",
+    "pip",
+    "format",
+    "symbol",
+    "type",
+    "icon"
+  ],
+  "title": "Instrument",
+  "type": "object"
 }
