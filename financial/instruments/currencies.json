@@ -1550,22 +1550,5 @@
       "ticker": "DOP"
     },
     "type": "currency"
-  },
-  "DJF": {
-    "code": "DJF",
-    "icon": "djibouti",
-    "format": {
-      "round": 3
-    },
-    "name": {
-      "key": "djiboutian_franc",
-      "localized": "Djiboutian Franc"
-    },
-    "symbol": {
-      "long": "Fdj",
-      "short": "Fdj",
-      "ticker": "DJF"
-    },
-    "type": "currency"
   }
 }
