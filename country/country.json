@@ -79,6 +79,11 @@
     "currency": "EUR",
     "vatRates": [5, 12, 21]
   },
+  "liechtenstein": {
+    "code": "LI",
+    "currency": "CHF",
+    "vatRates": [2.6, 3.8, 8.1]
+  },
   "lithuania": {
     "code": "LT",
     "currency": "EUR",
@@ -88,11 +93,6 @@
     "code": "LU",
     "currency": "EUR",
     "vatRates": [3, 7, 13, 17]
-  },
-  "liechtenstein": {
-    "code": "LI",
-    "currency": "CHF",
-    "vatRates": [2.6, 3.8, 8.1]
   },
   "malta": {
     "code": "MT",
@@ -111,6 +111,11 @@
   },
   "poland": {
     "code": "PL",
+    "currency": "EUR",
+    "vatRates": [5, 8, 23]
+  },
+  "portugal": {
+    "code": "PT",
     "currency": "EUR",
     "vatRates": [6, 13, 23]
   },
